@@ -1,23 +1,37 @@
 #!/bin/bash
 
-# Eğer kullanıcı bir commit mesajı girmemişse, hata ver ve çık.
+# Renk kodları (terminali daha okunaklı yapmak için)
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+NC='\033[0m' # Renk yok
+
+# --- KONTROLLER ---
+# 1. Commit mesajı girilmiş mi diye kontrol et.
 if [ -z "$1" ]; then
-  echo "HATA: Lütfen tırnak içinde bir commit mesajı girin."
-  echo "ÖRNEK KULLANIM: bash gonder.sh \"Yeni özellik eklendi\""
+  echo -e "${RED}HATA: Lütfen tırnak içinde bir commit mesajı girmeyi unutma.${NC}"
+  echo -e "${YELLOW}ÖRNEK KULLANIM: bash gonder.sh \"Kullanıcı girişi tamamlandı\"${NC}"
   exit 1
 fi
 
-# Adım 1: Tüm değişiklikleri Git'e ekle (.gitignore'dakiler hariç)
-echo "--> 1. Adım: Değişiklikler hazırlanıyor (git add .)"
+# --- İŞLEMLER ---
+echo -e "\n${YELLOW}>> 1. Adım: Değişiklikler hazırlanıyor...${NC}"
+echo "(.gitignore dosyasındaki listeye göre istenmeyen dosyalar ATLANDI)"
+# İşte sihirli an burası! git add komutu .gitignore'ı otomatik olarak okur.
 git add .
+echo -e "${GREEN}Hazırlık tamamlandı.${NC}"
 
-# Adım 2: Değişiklikleri kullanıcının mesajıyla kaydet (commit)
-echo "--> 2. Adım: Değişiklikler kaydediliyor (git commit)"
+
+echo -e "\n${YELLOW}>> 2. Adım: Değişiklikler kaydediliyor...${NC}"
+# Değişiklikleri senin mesajınla kaydediyoruz.
 git commit -m "$1"
+echo -e "${GREEN}Kayıt tamamlandı.${NC}"
 
-# Adım 3: Kaydedilen değişiklikleri GitHub'a gönder (push)
-echo "--> 3. Adım: GitHub'a gönderiliyor (git push)"
-git push origin master
 
-echo ""
-echo "İşlem başarıyla tamamlandı!"
+echo -e "\n${YELLOW}>> 3. Adım: Değişiklikler GitHub'a gönderiliyor...${NC}"
+# Kayıtlı değişiklikleri GitHub'a gönderiyoruz.
+git push origin main # DİKKAT: Eğer ana dalının adı 'master' ise bunu 'master' olarak değiştir.
+echo -e "${GREEN}Gönderme tamamlandı.${NC}"
+
+
+echo -e "\n${GREEN}--- İŞLEM BAŞARIYLA TAMAMLANDI! ---${NC}\n"
