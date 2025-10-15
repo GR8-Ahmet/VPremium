@@ -1,0 +1,6 @@
+# Node.js bağımlılıkları
+node_modules/
+
+# WhatsApp Web JS oturum ve önbellek dosyaları
+.wwebjs_auth/
+.wwebjs_cache/

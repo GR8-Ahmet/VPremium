@@ -1,0 +1,1577 @@
+[
+  {
+    "plaka": 1,
+    "il_adi": "Adana",
+    "latitude": "37.0000",
+    "longitude": "35.3213",
+    "ilceler": [
+      { "ilce_adi": "Aladağ", "latitude": "37.5483", "longitude": "35.3950" },
+      { "ilce_adi": "Ceyhan", "latitude": "37.0253", "longitude": "35.8189" },
+      { "ilce_adi": "Çukurova", "latitude": "37.0606", "longitude": "35.2919" },
+      { "ilce_adi": "Feke", "latitude": "37.8183", "longitude": "35.9108" },
+      { "ilce_adi": "İmamoğlu", "latitude": "37.2650", "longitude": "35.6603" },
+      { "ilce_adi": "Karaisalı", "latitude": "37.2572", "longitude": "35.0569" },
+      { "ilce_adi": "Karataş", "latitude": "36.5706", "longitude": "35.3683" },
+      { "ilce_adi": "Kozan", "latitude": "37.4522", "longitude": "35.8119" },
+      { "ilce_adi": "Pozantı", "latitude": "37.4206", "longitude": "34.8719" },
+      { "ilce_adi": "Saimbeyli", "latitude": "37.9856", "longitude": "36.0944" },
+      { "ilce_adi": "Sarıçam", "latitude": "37.0906", "longitude": "35.4950" },
+      { "ilce_adi": "Seyhan", "latitude": "36.9914", "longitude": "35.3250" },
+      { "ilce_adi": "Tufanbeyli", "latitude": "38.2561", "longitude": "36.2239" },
+      { "ilce_adi": "Yumurtalık", "latitude": "36.7686", "longitude": "35.7906" },
+      { "ilce_adi": "Yüreğir", "latitude": "36.9833", "longitude": "35.4000" }
+    ]
+  },
+  {
+    "plaka": 2,
+    "il_adi": "Adıyaman",
+    "latitude": "37.7644",
+    "longitude": "38.2763",
+    "ilceler": [
+      { "ilce_adi": "Besni", "latitude": "37.6936", "longitude": "37.8742" },
+      { "ilce_adi": "Çelikhan", "latitude": "38.0289", "longitude": "38.2436" },
+      { "ilce_adi": "Gerger", "latitude": "37.9511", "longitude": "39.0239" },
+      { "ilce_adi": "Gölbaşı", "latitude": "37.7853", "longitude": "37.6406" },
+      { "ilce_adi": "Kahta", "latitude": "37.7844", "longitude": "38.6186" },
+      { "ilce_adi": "Merkez", "latitude": "37.7644", "longitude": "38.2763" },
+      { "ilce_adi": "Samsat", "latitude": "37.5858", "longitude": "38.4867" },
+      { "ilce_adi": "Sincik", "latitude": "38.0319", "longitude": "38.6019" },
+      { "ilce_adi": "Tut", "latitude": "37.8011", "longitude": "37.9133" }
+    ]
+  },
+  {
+    "plaka": 3,
+    "il_adi": "Afyonkarahisar",
+    "latitude": "38.7569",
+    "longitude": "30.5387",
+    "ilceler": [
+      { "ilce_adi": "Başmakçı", "latitude": "38.1067", "longitude": "29.9328" },
+      { "ilce_adi": "Bayat", "latitude": "39.0117", "longitude": "30.9328" },
+      { "ilce_adi": "Bolvadin", "latitude": "38.7083", "longitude": "31.0506" },
+      { "ilce_adi": "Çay", "latitude": "38.5833", "longitude": "31.0333" },
+      { "ilce_adi": "Çobanlar", "latitude": "38.7019", "longitude": "30.7719" },
+      { "ilce_adi": "Dazkırı", "latitude": "37.9150", "longitude": "29.8519" },
+      { "ilce_adi": "Dinar", "latitude": "38.0664", "longitude": "30.1650" },
+      { "ilce_adi": "Emirdağ", "latitude": "39.0211", "longitude": "31.1506" },
+      { "ilce_adi": "Evciler", "latitude": "38.0381", "longitude": "29.9142" },
+      { "ilce_adi": "Hocalar", "latitude": "38.6369", "longitude": "30.0167" },
+      { "ilce_adi": "İhsaniye", "latitude": "39.0069", "longitude": "30.4061" },
+      { "ilce_adi": "İscehisar", "latitude": "38.8653", "longitude": "30.7419" },
+      { "ilce_adi": "Kızılören", "latitude": "38.4636", "longitude": "30.2228" },
+      { "ilce_adi": "Merkez", "latitude": "38.7569", "longitude": "30.5387" },
+      { "ilce_adi": "Sandıklı", "latitude": "38.4639", "longitude": "30.2694" },
+      { "ilce_adi": "Sinanpaşa", "latitude": "38.7481", "longitude": "30.2522" },
+      { "ilce_adi": "Sultandağı", "latitude": "38.5333", "longitude": "31.2333" },
+      { "ilce_adi": "Şuhut", "latitude": "38.5283", "longitude": "30.5489" }
+    ]
+  },
+  {
+    "plaka": 4,
+    "il_adi": "Ağrı",
+    "latitude": "39.7191",
+    "longitude": "43.0506",
+    "ilceler": [
+      { "ilce_adi": "Diyadin", "latitude": "39.5186", "longitude": "43.6669" },
+      { "ilce_adi": "Doğubayazıt", "latitude": "39.5492", "longitude": "44.0842" },
+      { "ilce_adi": "Eleşkirt", "latitude": "39.7564", "longitude": "42.6775" },
+      { "ilce_adi": "Hamur", "latitude": "39.6053", "longitude": "43.1469" },
+      { "ilce_adi": "Merkez", "latitude": "39.7191", "longitude": "43.0506" },
+      { "ilce_adi": "Patnos", "latitude": "39.2319", "longitude": "42.8617" },
+      { "ilce_adi": "Taşlıçay", "latitude": "39.6586", "longitude": "43.4392" },
+      { "ilce_adi": "Tutak", "latitude": "39.4994", "longitude": "42.7661" }
+    ]
+  },
+  {
+    "plaka": 68,
+    "il_adi": "Aksaray",
+    "latitude": "38.3686",
+    "longitude": "34.0367",
+    "ilceler": [
+      { "ilce_adi": "Ağaçören", "latitude": "38.9333", "longitude": "34.1833" },
+      { "ilce_adi": "Eskil", "latitude": "38.3986", "longitude": "33.4022" },
+      { "ilce_adi": "Gülağaç", "latitude": "38.4731", "longitude": "34.3417" },
+      { "ilce_adi": "Güzelyurt", "latitude": "38.2792", "longitude": "34.3639" },
+      { "ilce_adi": "Merkez", "latitude": "38.3686", "longitude": "34.0367" },
+      { "ilce_adi": "Ortaköy", "latitude": "38.7456", "longitude": "34.0436" },
+      { "ilce_adi": "Sarıyahşi", "latitude": "38.9667", "longitude": "34.3333" },
+      { "ilce_adi": "Sultanhanı", "latitude": "38.2514", "longitude": "33.5489" }
+    ]
+  },
+  {
+    "plaka": 5,
+    "il_adi": "Amasya",
+    "latitude": "40.6563",
+    "longitude": "35.8353",
+    "ilceler": [
+      { "ilce_adi": "Göynücek", "latitude": "40.4856", "longitude": "35.5342" },
+      { "ilce_adi": "Gümüşhacıköy", "latitude": "40.8594", "longitude": "35.2164" },
+      { "ilce_adi": "Hamamözü", "latitude": "40.7817", "longitude": "35.0483" },
+      { "ilce_adi": "Merkez", "latitude": "40.6563", "longitude": "35.8353" },
+      { "ilce_adi": "Merzifon", "latitude": "40.8753", "longitude": "35.4858" },
+      { "ilce_adi": "Suluova", "latitude": "40.8353", "longitude": "35.6472" },
+      { "ilce_adi": "Taşova", "latitude": "40.7600", "longitude": "36.3267" }
+    ]
+  },
+  {
+    "plaka": 6,
+    "il_adi": "Ankara",
+    "latitude": "39.9255",
+    "longitude": "32.8663",
+    "ilceler": [
+      { "ilce_adi": "Akyurt", "latitude": "40.1286", "longitude": "33.0850" },
+      { "ilce_adi": "Altındağ", "latitude": "39.9417", "longitude": "32.8597" },
+      { "ilce_adi": "Ayaş", "latitude": "40.0167", "longitude": "32.3333" },
+      { "ilce_adi": "Bala", "latitude": "39.4667", "longitude": "33.1333" },
+      { "ilce_adi": "Beypazarı", "latitude": "40.1667", "longitude": "31.9167" },
+      { "ilce_adi": "Çamlıdere", "latitude": "40.4833", "longitude": "32.4667" },
+      { "ilce_adi": "Çankaya", "latitude": "39.9333", "longitude": "32.8597" },
+      { "ilce_adi": "Çubuk", "latitude": "40.2333", "longitude": "33.0333" },
+      { "ilce_adi": "Elmadağ", "latitude": "39.9167", "longitude": "33.2000" },
+      { "ilce_adi": "Etimesgut", "latitude": "39.9500", "longitude": "32.6833" },
+      { "ilce_adi": "Evren", "latitude": "39.0667", "longitude": "33.8000" },
+      { "ilce_adi": "Gölbaşı", "latitude": "39.7833", "longitude": "32.8000" },
+      { "ilce_adi": "Güdül", "latitude": "40.2167", "longitude": "32.2500" },
+      { "ilce_adi": "Haymana", "latitude": "39.4333", "longitude": "32.4833" },
+      { "ilce_adi": "Kahramankazan", "latitude": "40.2167", "longitude": "32.6833" },
+      { "ilce_adi": "Kalecik", "latitude": "40.0833", "longitude": "33.4000" },
+      { "ilce_adi": "Keçiören", "latitude": "39.9667", "longitude": "32.8667" },
+      { "ilce_adi": "Kızılcahamam", "latitude": "40.4667", "longitude": "32.6500" },
+      { "ilce_adi": "Mamak", "latitude": "39.9333", "longitude": "32.9167" },
+      { "ilce_adi": "Nallıhan", "latitude": "40.1500", "longitude": "31.3000" },
+      { "ilce_adi": "Polatlı", "latitude": "39.5833", "longitude": "32.1500" },
+      { "ilce_adi": "Pursaklar", "latitude": "40.0667", "longitude": "32.9167" },
+      { "ilce_adi": "Sincan", "latitude": "39.9667", "longitude": "32.5833" },
+      { "ilce_adi": "Şereflikoçhisar", "latitude": "39.0500", "longitude": "33.5500" },
+      { "ilce_adi": "Yenimahalle", "latitude": "39.9500", "longitude": "32.8000" }
+    ]
+  },
+  {
+    "plaka": 7,
+    "il_adi": "Antalya",
+    "latitude": "36.8969",
+    "longitude": "30.7133",
+    "ilceler": [
+      { "ilce_adi": "Akseki", "latitude": "37.0500", "longitude": "31.8000" },
+      { "ilce_adi": "Aksu", "latitude": "36.9333", "longitude": "30.8500" },
+      { "ilce_adi": "Alanya", "latitude": "36.5433", "longitude": "31.9997" },
+      { "ilce_adi": "Demre", "latitude": "36.2444", "longitude": "29.9861" },
+      { "ilce_adi": "Döşemealtı", "latitude": "37.0167", "longitude": "30.6333" },
+      { "ilce_adi": "Elmalı", "latitude": "36.7333", "longitude": "29.9167" },
+      { "ilce_adi": "Finike", "latitude": "36.3000", "longitude": "30.1500" },
+      { "ilce_adi": "Gazipaşa", "latitude": "36.2667", "longitude": "32.3167" },
+      { "ilce_adi": "Gündoğmuş", "latitude": "36.8500", "longitude": "32.1333" },
+      { "ilce_adi": "İbradı", "latitude": "37.1000", "longitude": "31.5833" },
+      { "ilce_adi": "Kaş", "latitude": "36.2014", "longitude": "29.6381" },
+      { "ilce_adi": "Kemer", "latitude": "36.6000", "longitude": "30.5667" },
+      { "ilce_adi": "Kepez", "latitude": "36.9167", "longitude": "30.7000" },
+      { "ilce_adi": "Konyaaltı", "latitude": "36.8833", "longitude": "30.6333" },
+      { "ilce_adi": "Korkuteli", "latitude": "36.9333", "longitude": "30.2000" },
+      { "ilce_adi": "Kumluca", "latitude": "36.3667", "longitude": "30.2833" },
+      { "ilce_adi": "Manavgat", "latitude": "36.7867", "longitude": "31.4456" },
+      { "ilce_adi": "Muratpaşa", "latitude": "36.8833", "longitude": "30.7167" },
+      { "ilce_adi": "Serik", "latitude": "36.9167", "longitude": "31.0000" }
+    ]
+  },
+  {
+    "plaka": 75,
+    "il_adi": "Ardahan",
+    "latitude": "41.1105",
+    "longitude": "42.7022",
+    "ilceler": [
+      { "ilce_adi": "Çıldır", "latitude": "41.1333", "longitude": "43.1333" },
+      { "ilce_adi": "Damal", "latitude": "41.3167", "longitude": "42.6667" },
+      { "ilce_adi": "Göle", "latitude": "40.8000", "longitude": "42.6000" },
+      { "ilce_adi": "Hanak", "latitude": "41.2000", "longitude": "42.8667" },
+      { "ilce_adi": "Merkez", "latitude": "41.1105", "longitude": "42.7022" },
+      { "ilce_adi": "Posof", "latitude": "41.5000", "longitude": "42.7333" }
+    ]
+  },
+  {
+    "plaka": 8,
+    "il_adi": "Artvin",
+    "latitude": "41.1828",
+    "longitude": "41.8194",
+    "ilceler": [
+      { "ilce_adi": "Ardanuç", "latitude": "41.1167", "longitude": "42.0667" },
+      { "ilce_adi": "Arhavi", "latitude": "41.3500", "longitude": "41.2833" },
+      { "ilce_adi": "Borçka", "latitude": "41.3833", "longitude": "41.6667" },
+      { "ilce_adi": "Hopa", "latitude": "41.3833", "longitude": "41.4167" },
+      { "ilce_adi": "Kemalpaşa", "latitude": "41.4883", "longitude": "41.5233" },
+      { "ilce_adi": "Merkez", "latitude": "41.1828", "longitude": "41.8194" },
+      { "ilce_adi": "Murgul", "latitude": "41.2667", "longitude": "41.6333" },
+      { "ilce_adi": "Şavşat", "latitude": "41.2500", "longitude": "42.3500" },
+      { "ilce_adi": "Yusufeli", "latitude": "40.8167", "longitude": "41.5500" }
+    ]
+  },
+  {
+    "plaka": 9,
+    "il_adi": "Aydın",
+    "latitude": "37.8380",
+    "longitude": "27.8456",
+    "ilceler": [
+      { "ilce_adi": "Bozdoğan", "latitude": "37.6667", "longitude": "28.3167" },
+      { "ilce_adi": "Buharkent", "latitude": "37.9667", "longitude": "28.7667" },
+      { "ilce_adi": "Çine", "latitude": "37.6167", "longitude": "28.0667" },
+      { "ilce_adi": "Didim", "latitude": "37.3500", "longitude": "27.2667" },
+      { "ilce_adi": "Efeler", "latitude": "37.8475", "longitude": "27.8444" },
+      { "ilce_adi": "Germencik", "latitude": "37.8667", "longitude": "27.6000" },
+      { "ilce_adi": "İncirliova", "latitude": "37.8500", "longitude": "27.7167" },
+      { "ilce_adi": "Karacasu", "latitude": "37.7167", "longitude": "28.6000" },
+      { "ilce_adi": "Karpuzlu", "latitude": "37.5167", "longitude": "27.8667" },
+      { "ilce_adi": "Koçarlı", "latitude": "37.7667", "longitude": "27.7000" },
+      { "ilce_adi": "Köşk", "latitude": "37.8500", "longitude": "28.0333" },
+      { "ilce_adi": "Kuşadası", "latitude": "37.8500", "longitude": "27.2500" },
+      { "ilce_adi": "Kuyucak", "latitude": "37.9167", "longitude": "28.4500" },
+      { "ilce_adi": "Nazilli", "latitude": "37.9167", "longitude": "28.3167" },
+      { "ilce_adi": "Söke", "latitude": "37.7500", "longitude": "27.4000" },
+      { "ilce_adi": "Sultanhisar", "latitude": "37.9000", "longitude": "28.1667" },
+      { "ilce_adi": "Yenipazar", "latitude": "37.8167", "longitude": "28.2000" }
+    ]
+  },
+  {
+    "plaka": 10,
+    "il_adi": "Balıkesir",
+    "latitude": "39.6484",
+    "longitude": "27.8826",
+    "ilceler": [
+      { "ilce_adi": "Altıeylül", "latitude": "39.6481", "longitude": "27.8825" },
+      { "ilce_adi": "Ayvalık", "latitude": "39.3167", "longitude": "26.7000" },
+      { "ilce_adi": "Balya", "latitude": "39.7500", "longitude": "27.5833" },
+      { "ilce_adi": "Bandırma", "latitude": "40.3500", "longitude": "27.9667" },
+      { "ilce_adi": "Bigadiç", "latitude": "39.3833", "longitude": "28.1333" },
+      { "ilce_adi": "Burhaniye", "latitude": "39.5000", "longitude": "27.0000" },
+      { "ilce_adi": "Dursunbey", "latitude": "39.5833", "longitude": "28.6167" },
+      { "ilce_adi": "Edremit", "latitude": "39.6000", "longitude": "27.0167" },
+      { "ilce_adi": "Erdek", "latitude": "40.4000", "longitude": "27.8000" },
+      { "ilce_adi": "Gömeç", "latitude": "39.3833", "longitude": "26.8500" },
+      { "ilce_adi": "Gönen", "latitude": "40.1000", "longitude": "27.6500" },
+      { "ilce_adi": "Havran", "latitude": "39.5500", "longitude": "27.1000" },
+      { "ilce_adi": "İvrindi", "latitude": "39.5833", "longitude": "27.4833" },
+      { "ilce_adi": "Karesi", "latitude": "39.6542", "longitude": "27.8833" },
+      { "ilce_adi": "Kepsut", "latitude": "39.6000", "longitude": "28.1833" },
+      { "ilce_adi": "Manyas", "latitude": "40.0500", "longitude": "27.8167" },
+      { "ilce_adi": "Marmara", "latitude": "40.5833", "longitude": "27.5667" },
+      { "ilce_adi": "Savaştepe", "latitude": "39.3833", "longitude": "27.6833" },
+      { "ilce_adi": "Sındırgı", "latitude": "39.1667", "longitude": "28.1667" },
+      { "ilce_adi": "Susurluk", "latitude": "39.9167", "longitude": "28.1000" }
+    ]
+  },
+  {
+    "plaka": 74,
+    "il_adi": "Bartın",
+    "latitude": "41.6339",
+    "longitude": "32.3375",
+    "ilceler": [
+      { "ilce_adi": "Amasra", "latitude": "41.7500", "longitude": "32.3833" },
+      { "ilce_adi": "Kurucaşile", "latitude": "41.8333", "longitude": "32.7167" },
+      { "ilce_adi": "Merkez", "latitude": "41.6339", "longitude": "32.3375" },
+      { "ilce_adi": "Ulus", "latitude": "41.5833", "longitude": "32.6500" }
+    ]
+  },
+  {
+    "plaka": 72,
+    "il_adi": "Batman",
+    "latitude": "37.8812",
+    "longitude": "41.1351",
+    "ilceler": [
+      { "ilce_adi": "Beşiri", "latitude": "37.9333", "longitude": "41.2667" },
+      { "ilce_adi": "Gercüş", "latitude": "37.5833", "longitude": "41.3667" },
+      { "ilce_adi": "Hasankeyf", "latitude": "37.7167", "longitude": "41.4167" },
+      { "ilce_adi": "Kozluk", "latitude": "38.1833", "longitude": "41.5000" },
+      { "ilce_adi": "Merkez", "latitude": "37.8812", "longitude": "41.1351" },
+      { "ilce_adi": "Sason", "latitude": "38.3333", "longitude": "41.4333" }
+    ]
+  },
+  {
+    "plaka": 69,
+    "il_adi": "Bayburt",
+    "latitude": "40.2551",
+    "longitude": "40.2249",
+    "ilceler": [
+      { "ilce_adi": "Aydıntepe", "latitude": "40.4000", "longitude": "40.1167" },
+      { "ilce_adi": "Demirözü", "latitude": "40.1667", "longitude": "40.1667" },
+      { "ilce_adi": "Merkez", "latitude": "40.2551", "longitude": "40.2249" }
+    ]
+  },
+  {
+    "plaka": 11,
+    "il_adi": "Bilecik",
+    "latitude": "40.1427",
+    "longitude": "29.9793",
+    "ilceler": [
+      { "ilce_adi": "Bozüyük", "latitude": "39.9000", "longitude": "30.0333" },
+      { "ilce_adi": "Gölpazarı", "latitude": "40.2833", "longitude": "30.3000" },
+      { "ilce_adi": "İnhisar", "latitude": "40.0500", "longitude": "30.3667" },
+      { "ilce_adi": "Merkez", "latitude": "40.1427", "longitude": "29.9793" },
+      { "ilce_adi": "Osmaneli", "latitude": "40.3500", "longitude": "30.0167" },
+      { "ilce_adi": "Pazaryeri", "latitude": "40.0000", "longitude": "29.9000" },
+      { "ilce_adi": "Söğüt", "latitude": "40.0167", "longitude": "30.1833" },
+      { "ilce_adi": "Yenipazar", "latitude": "40.1667", "longitude": "30.4333" }
+    ]
+  },
+  {
+    "plaka": 12,
+    "il_adi": "Bingöl",
+    "latitude": "38.8853",
+    "longitude": "40.4983",
+    "ilceler": [
+      { "ilce_adi": "Adaklı", "latitude": "39.2333", "longitude": "40.4833" },
+      { "ilce_adi": "Genç", "latitude": "38.6833", "longitude": "40.5667" },
+      { "ilce_adi": "Karlıova", "latitude": "39.2833", "longitude": "41.0000" },
+      { "ilce_adi": "Kiğı", "latitude": "39.3833", "longitude": "40.3500" },
+      { "ilce_adi": "Merkez", "latitude": "38.8853", "longitude": "40.4983" },
+      { "ilce_adi": "Solhan", "latitude": "38.9500", "longitude": "41.0500" },
+      { "ilce_adi": "Yayladere", "latitude": "39.3333", "longitude": "40.0500" },
+      { "ilce_adi": "Yedisu", "latitude": "39.4667", "longitude": "40.6333" }
+    ]
+  },
+  {
+    "plaka": 13,
+    "il_adi": "Bitlis",
+    "latitude": "38.4000",
+    "longitude": "42.1097",
+    "ilceler": [
+      { "ilce_adi": "Adilcevaz", "latitude": "38.8000", "longitude": "42.7333" },
+      { "ilce_adi": "Ahlat", "latitude": "38.7500", "longitude": "42.4833" },
+      { "ilce_adi": "Güroymak", "latitude": "38.6333", "longitude": "42.1000" },
+      { "ilce_adi": "Hizan", "latitude": "38.2000", "longitude": "42.4167" },
+      { "ilce_adi": "Merkez", "latitude": "38.4000", "longitude": "42.1097" },
+      { "ilce_adi": "Mutki", "latitude": "38.4167", "longitude": "41.9333" },
+      { "ilce_adi": "Tatvan", "latitude": "38.5000", "longitude": "42.2833" }
+    ]
+  },
+  {
+    "plaka": 14,
+    "il_adi": "Bolu",
+    "latitude": "40.7347",
+    "longitude": "31.6097",
+    "ilceler": [
+      { "ilce_adi": "Dörtdivan", "latitude": "40.7333", "longitude": "32.0667" },
+      { "ilce_adi": "Gerede", "latitude": "40.8000", "longitude": "32.2000" },
+      { "ilce_adi": "Göynük", "latitude": "40.4000", "longitude": "30.7833" },
+      { "ilce_adi": "Kıbrıscık", "latitude": "40.4167", "longitude": "31.7833" },
+      { "ilce_adi": "Mengen", "latitude": "40.9167", "longitude": "31.8167" },
+      { "ilce_adi": "Merkez", "latitude": "40.7347", "longitude": "31.6097" },
+      { "ilce_adi": "Mudurnu", "latitude": "40.4667", "longitude": "31.2000" },
+      { "ilce_adi": "Seben", "latitude": "40.4167", "longitude": "31.5667" },
+      { "ilce_adi": "Yeniçağa", "latitude": "40.7667", "longitude": "32.0167" }
+    ]
+  },
+  {
+    "plaka": 15,
+    "il_adi": "Burdur",
+    "latitude": "37.7269",
+    "longitude": "30.2913",
+    "ilceler": [
+      { "ilce_adi": "Ağlasun", "latitude": "37.6500", "longitude": "30.6333" },
+      { "ilce_adi": "Altınyayla", "latitude": "37.0000", "longitude": "29.7500" },
+      { "ilce_adi": "Bucak", "latitude": "37.4500", "longitude": "30.6000" },
+      { "ilce_adi": "Çavdır", "latitude": "37.1500", "longitude": "29.7000" },
+      { "ilce_adi": "Çeltikçi", "latitude": "37.5500", "longitude": "30.4500" },
+      { "ilce_adi": "Gölhisar", "latitude": "37.1500", "longitude": "29.5167" },
+      { "ilce_adi": "Karamanlı", "latitude": "37.3667", "longitude": "29.8167" },
+      { "ilce_adi": "Kemer", "latitude": "37.3500", "longitude": "29.9833" },
+      { "ilce_adi": "Merkez", "latitude": "37.7269", "longitude": "30.2913" },
+      { "ilce_adi": "Tefenni", "latitude": "37.2833", "longitude": "29.7833" },
+      { "ilce_adi": "Yeşilova", "latitude": "37.5167", "longitude": "29.9333" }
+    ]
+  },
+  {
+    "plaka": 16,
+    "il_adi": "Bursa",
+    "latitude": "40.1826",
+    "longitude": "29.0667",
+    "ilceler": [
+      { "ilce_adi": "Büyükorhan", "latitude": "39.7500", "longitude": "28.9333" },
+      { "ilce_adi": "Gemlik", "latitude": "40.4333", "longitude": "29.1667" },
+      { "ilce_adi": "Gürsu", "latitude": "40.2000", "longitude": "29.1833" },
+      { "ilce_adi": "Harmancık", "latitude": "39.6833", "longitude": "29.1167" },
+      { "ilce_adi": "İnegöl", "latitude": "39.9833", "longitude": "29.5000" },
+      { "ilce_adi": "İznik", "latitude": "40.4167", "longitude": "29.7167" },
+      { "ilce_adi": "Karacabey", "latitude": "40.2167", "longitude": "28.3667" },
+      { "ilce_adi": "Keles", "latitude": "39.9167", "longitude": "29.2333" },
+      { "ilce_adi": "Kestel", "latitude": "40.1833", "longitude": "29.2167" },
+      { "ilce_adi": "Mudanya", "latitude": "40.3667", "longitude": "28.8833" },
+      { "ilce_adi": "Mustafakemalpaşa", "latitude": "40.0333", "longitude": "28.4000" },
+      { "ilce_adi": "Nilüfer", "latitude": "40.2167", "longitude": "28.9500" },
+      { "ilce_adi": "Orhaneli", "latitude": "39.9000", "longitude": "28.9833" },
+      { "ilce_adi": "Orhangazi", "latitude": "40.4833", "longitude": "29.3167" },
+      { "ilce_adi": "Osmangazi", "latitude": "40.1933", "longitude": "29.0744" },
+      { "ilce_adi": "Yenişehir", "latitude": "40.2667", "longitude": "29.6500" },
+      { "ilce_adi": "Yıldırım", "latitude": "40.1833", "longitude": "29.0833" }
+    ]
+  },
+  {
+    "plaka": 17,
+    "il_adi": "Çanakkale",
+    "latitude": "40.1467",
+    "longitude": "26.4086",
+    "ilceler": [
+      { "ilce_adi": "Ayvacık", "latitude": "39.6000", "longitude": "26.4000" },
+      { "ilce_adi": "Bayramiç", "latitude": "39.8167", "longitude": "26.6167" },
+      { "ilce_adi": "Biga", "latitude": "40.2333", "longitude": "27.2333" },
+      { "ilce_adi": "Bozcaada", "latitude": "39.8333", "longitude": "26.0667" },
+      { "ilce_adi": "Çan", "latitude": "40.0333", "longitude": "27.0500" },
+      { "ilce_adi": "Eceabat", "latitude": "40.1833", "longitude": "26.3500" },
+      { "ilce_adi": "Ezine", "latitude": "39.7833", "longitude": "26.3333" },
+      { "ilce_adi": "Gelibolu", "latitude": "40.4000", "longitude": "26.6667" },
+      { "ilce_adi": "Gökçeada", "latitude": "40.2000", "longitude": "25.9167" },
+      { "ilce_adi": "Lapseki", "latitude": "40.3500", "longitude": "26.7000" },
+      { "ilce_adi": "Merkez", "latitude": "40.1467", "longitude": "26.4086" },
+      { "ilce_adi": "Yenice", "latitude": "39.9333", "longitude": "27.2500" }
+    ]
+  },
+  {
+    "plaka": 18,
+    "il_adi": "Çankırı",
+    "latitude": "40.6000",
+    "longitude": "33.6167",
+    "ilceler": [
+      { "ilce_adi": "Atkaracalar", "latitude": "40.8500", "longitude": "33.1500" },
+      { "ilce_adi": "Bayramören", "latitude": "41.0667", "longitude": "33.2000" },
+      { "ilce_adi": "Çerkeş", "latitude": "40.8000", "longitude": "32.9000" },
+      { "ilce_adi": "Eldivan", "latitude": "40.4500", "longitude": "33.5167" },
+      { "ilce_adi": "Ilgaz", "latitude": "40.9333", "longitude": "33.6333" },
+      { "ilce_adi": "Kızılırmak", "latitude": "40.2833", "longitude": "34.1167" },
+      { "ilce_adi": "Korgun", "latitude": "40.7333", "longitude": "33.6167" },
+      { "ilce_adi": "Kurşunlu", "latitude": "40.8333", "longitude": "33.3000" },
+      { "ilce_adi": "Merkez", "latitude": "40.6000", "longitude": "33.6167" },
+      { "ilce_adi": "Orta", "latitude": "40.7000", "longitude": "33.1167" },
+      { "ilce_adi": "Şabanözü", "latitude": "40.4500", "longitude": "33.2833" },
+      { "ilce_adi": "Yapraklı", "latitude": "40.7167", "longitude": "33.8000" }
+    ]
+  },
+  {
+    "plaka": 19,
+    "il_adi": "Çorum",
+    "latitude": "40.5506",
+    "longitude": "34.9556",
+    "ilceler": [
+      { "ilce_adi": "Alaca", "latitude": "40.1667", "longitude": "34.8333" },
+      { "ilce_adi": "Bayat", "latitude": "40.6500", "longitude": "34.2500" },
+      { "ilce_adi": "Boğazkale", "latitude": "40.0333", "longitude": "34.6167" },
+      { "ilce_adi": "Dodurga", "latitude": "40.8833", "longitude": "34.8667" },
+      { "ilce_adi": "İskilip", "latitude": "40.7333", "longitude": "34.4667" },
+      { "ilce_adi": "Kargı", "latitude": "41.1333", "longitude": "34.3333" },
+      { "ilce_adi": "Laçin", "latitude": "40.7500", "longitude": "34.8500" },
+      { "ilce_adi": "Mecitözü", "latitude": "40.5333", "longitude": "35.2833" },
+      { "ilce_adi": "Merkez", "latitude": "40.5506", "longitude": "34.9556" },
+      { "ilce_adi": "Oğuzlar", "latitude": "40.7667", "longitude": "34.7000" },
+      { "ilce_adi": "Ortaköy", "latitude": "40.2000", "longitude": "35.0833" },
+      { "ilce_adi": "Osmancık", "latitude": "40.9667", "longitude": "34.8000" },
+      { "ilce_adi": "Sungurlu", "latitude": "40.1667", "longitude": "34.3667" },
+      { "ilce_adi": "Uğurludağ", "latitude": "40.4167", "longitude": "34.3833" }
+    ]
+  },
+  {
+    "plaka": 20,
+    "il_adi": "Denizli",
+    "latitude": "37.7833",
+    "longitude": "29.0944",
+    "ilceler": [
+      { "ilce_adi": "Acıpayam", "latitude": "37.4167", "longitude": "29.3500" },
+      { "ilce_adi": "Babadağ", "latitude": "37.8000", "longitude": "28.8500" },
+      { "ilce_adi": "Baklan", "latitude": "38.0333", "longitude": "29.6000" },
+      { "ilce_adi": "Bekilli", "latitude": "38.2333", "longitude": "29.4167" },
+      { "ilce_adi": "Beyağaç", "latitude": "37.2667", "longitude": "28.8833" },
+      { "ilce_adi": "Bozkurt", "latitude": "37.8000", "longitude": "29.6000" },
+      { "ilce_adi": "Buldan", "latitude": "38.0500", "longitude": "28.8333" },
+      { "ilce_adi": "Çal", "latitude": "38.1000", "longitude": "29.4000" },
+      { "ilce_adi": "Çameli", "latitude": "37.1000", "longitude": "29.3500" },
+      { "ilce_adi": "Çardak", "latitude": "37.7333", "longitude": "29.6833" },
+      { "ilce_adi": "Çivril", "latitude": "38.3000", "longitude": "29.9500" },
+      { "ilce_adi": "Güney", "latitude": "38.1333", "longitude": "29.0833" },
+      { "ilce_adi": "Honaz", "latitude": "37.7667", "longitude": "29.2500" },
+      { "ilce_adi": "Kale", "latitude": "37.4500", "longitude": "28.8500" },
+      { "ilce_adi": "Merkezefendi", "latitude": "37.7811", "longitude": "29.0883" },
+      { "ilce_adi": "Pamukkale", "latitude": "37.7811", "longitude": "29.0883" },
+      { "ilce_adi": "Sarayköy", "latitude": "37.9167", "longitude": "28.9167" },
+      { "ilce_adi": "Serinhisar", "latitude": "37.5833", "longitude": "29.2667" },
+      { "ilce_adi": "Tavas", "latitude": "37.5833", "longitude": "28.9667" }
+    ]
+  },
+  {
+    "plaka": 21,
+    "il_adi": "Diyarbakır",
+    "latitude": "37.9142",
+    "longitude": "40.2307",
+    "ilceler": [
+      { "ilce_adi": "Bağlar", "latitude": "37.9139", "longitude": "40.2078" },
+      { "ilce_adi": "Bismil", "latitude": "37.8500", "longitude": "40.6667" },
+      { "ilce_adi": "Çermik", "latitude": "38.1333", "longitude": "39.4500" },
+      { "ilce_adi": "Çınar", "latitude": "37.7167", "longitude": "40.4000" },
+      { "ilce_adi": "Çüngüş", "latitude": "38.2000", "longitude": "39.2667" },
+      { "ilce_adi": "Dicle", "latitude": "38.3667", "longitude": "40.0667" },
+      { "ilce_adi": "Eğil", "latitude": "38.2500", "longitude": "40.0667" },
+      { "ilce_adi": "Ergani", "latitude": "38.2667", "longitude": "39.7667" },
+      { "ilce_adi": "Hani", "latitude": "38.4167", "longitude": "40.3833" },
+      { "ilce_adi": "Hazro", "latitude": "38.2500", "longitude": "40.7500" },
+      { "ilce_adi": "Kayapınar", "latitude": "37.9139", "longitude": "40.1389" },
+      { "ilce_adi": "Kocaköy", "latitude": "38.1833", "longitude": "40.4833" },
+      { "ilce_adi": "Kulp", "latitude": "38.5000", "longitude": "41.0167" },
+      { "ilce_adi": "Lice", "latitude": "38.4667", "longitude": "40.6500" },
+      { "ilce_adi": "Silvan", "latitude": "38.1333", "longitude": "41.0000" },
+      { "ilce_adi": "Sur", "latitude": "37.9139", "longitude": "40.2389" },
+      { "ilce_adi": "Yenişehir", "latitude": "37.9139", "longitude": "40.2222" }
+    ]
+  },
+  {
+    "plaka": 81,
+    "il_adi": "Düzce",
+    "latitude": "40.8439",
+    "longitude": "31.1565",
+    "ilceler": [
+      { "ilce_adi": "Akçakoca", "latitude": "41.0833", "longitude": "31.1167" },
+      { "ilce_adi": "Çilimli", "latitude": "40.8833", "longitude": "31.2500" },
+      { "ilce_adi": "Cumayeri", "latitude": "40.8667", "longitude": "31.0167" },
+      { "ilce_adi": "Gölyaka", "latitude": "40.7833", "longitude": "31.0000" },
+      { "ilce_adi": "Gümüşova", "latitude": "40.8000", "longitude": "31.0000" },
+      { "ilce_adi": "Kaynaşlı", "latitude": "40.7667", "longitude": "31.3333" },
+      { "ilce_adi": "Merkez", "latitude": "40.8439", "longitude": "31.1565" },
+      { "ilce_adi": "Yığılca", "latitude": "40.9833", "longitude": "31.4167" }
+    ]
+  },
+  {
+    "plaka": 22,
+    "il_adi": "Edirne",
+    "latitude": "41.6771",
+    "longitude": "26.5557",
+    "ilceler": [
+      { "ilce_adi": "Enez", "latitude": "40.7167", "longitude": "26.0833" },
+      { "ilce_adi": "Havsa", "latitude": "41.5500", "longitude": "26.8167" },
+      { "ilce_adi": "İpsala", "latitude": "40.9167", "longitude": "26.3833" },
+      { "ilce_adi": "Keşan", "latitude": "40.8500", "longitude": "26.6333" },
+      { "ilce_adi": "Lalapaşa", "latitude": "41.8333", "longitude": "26.7167" },
+      { "ilce_adi": "Meriç", "latitude": "41.1833", "longitude": "26.4833" },
+      { "ilce_adi": "Merkez", "latitude": "41.6771", "longitude": "26.5557" },
+      { "ilce_adi": "Süloğlu", "latitude": "41.7667", "longitude": "26.9000" },
+      { "ilce_adi": "Uzunköprü", "latitude": "41.2667", "longitude": "26.6833" }
+    ]
+  },
+  {
+    "plaka": 23,
+    "il_adi": "Elazığ",
+    "latitude": "38.6809",
+    "longitude": "39.2264",
+    "ilceler": [
+      { "ilce_adi": "Ağın", "latitude": "38.9333", "longitude": "38.6833" },
+      { "ilce_adi": "Alacakaya", "latitude": "38.4667", "longitude": "39.8500" },
+      { "ilce_adi": "Arıcak", "latitude": "38.5667", "longitude": "39.9833" },
+      { "ilce_adi": "Baskil", "latitude": "38.6500", "longitude": "38.8000" },
+      { "ilce_adi": "Karakoçan", "latitude": "38.9500", "longitude": "40.0333" },
+      { "ilce_adi": "Keban", "latitude": "38.7500", "longitude": "38.7500" },
+      { "ilce_adi": "Kovancılar", "latitude": "38.7500", "longitude": "39.9667" },
+      { "ilce_adi": "Maden", "latitude": "38.3833", "longitude": "39.6667" },
+      { "ilce_adi": "Merkez", "latitude": "38.6809", "longitude": "39.2264" },
+      { "ilce_adi": "Palu", "latitude": "38.6833", "longitude": "39.9167" },
+      { "ilce_adi": "Sivrice", "latitude": "38.4500", "longitude": "39.3167" }
+    ]
+  },
+  {
+    "plaka": 24,
+    "il_adi": "Erzincan",
+    "latitude": "39.7500",
+    "longitude": "39.5000",
+    "ilceler": [
+      { "ilce_adi": "Çayırlı", "latitude": "39.9000", "longitude": "39.9000" },
+      { "ilce_adi": "İliç", "latitude": "39.5000", "longitude": "38.5833" },
+      { "ilce_adi": "Kemah", "latitude": "39.5833", "longitude": "39.1167" },
+      { "ilce_adi": "Kemaliye", "latitude": "39.2667", "longitude": "38.8000" },
+      { "ilce_adi": "Merkez", "latitude": "39.7500", "longitude": "39.5000" },
+      { "ilce_adi": "Otlukbeli", "latitude": "39.9833", "longitude": "39.9000" },
+      { "ilce_adi": "Refahiye", "latitude": "39.9000", "longitude": "38.7667" },
+      { "ilce_adi": "Tercan", "latitude": "39.7833", "longitude": "40.3833" },
+      { "ilce_adi": "Üzümlü", "latitude": "39.7167", "longitude": "39.7167" }
+    ]
+  },
+  {
+    "plaka": 25,
+    "il_adi": "Erzurum",
+    "latitude": "39.9095",
+    "longitude": "41.2785",
+    "ilceler": [
+      { "ilce_adi": "Aşkale", "latitude": "39.9167", "longitude": "40.6833" },
+      { "ilce_adi": "Aziziye", "latitude": "39.9667", "longitude": "41.1667" },
+      { "ilce_adi": "Çat", "latitude": "39.7000", "longitude": "40.9167" },
+      { "ilce_adi": "Hınıs", "latitude": "39.3667", "longitude": "41.7000" },
+      { "ilce_adi": "Horasan", "latitude": "40.0333", "longitude": "42.1667" },
+      { "ilce_adi": "İspir", "latitude": "40.4833", "longitude": "40.9833" },
+      { "ilce_adi": "Karaçoban", "latitude": "39.4667", "longitude": "42.1167" },
+      { "ilce_adi": "Karayazı", "latitude": "39.6667", "longitude": "42.2000" },
+      { "ilce_adi": "Köprüköy", "latitude": "39.9000", "longitude": "41.9000" },
+      { "ilce_adi": "Narman", "latitude": "40.3500", "longitude": "41.9000" },
+      { "ilce_adi": "Oltu", "latitude": "40.5500", "longitude": "42.0000" },
+      { "ilce_adi": "Olur", "latitude": "40.8167", "longitude": "42.1000" },
+      { "ilce_adi": "Palandöken", "latitude": "39.8833", "longitude": "41.2667" },
+      { "ilce_adi": "Pasinler", "latitude": "39.9833", "longitude": "41.6833" },
+      { "ilce_adi": "Pazaryolu", "latitude": "40.4333", "longitude": "41.2167" },
+      { "ilce_adi": "Şenkaya", "latitude": "40.6667", "longitude": "42.3000" },
+      { "ilce_adi": "Tekman", "latitude": "39.5000", "longitude": "41.5167" },
+      { "ilce_adi": "Tortum", "latitude": "40.2833", "longitude": "41.5000" },
+      { "ilce_adi": "Uzundere", "latitude": "40.5500", "longitude": "41.5833" },
+      { "ilce_adi": "Yakutiye", "latitude": "39.9167", "longitude": "41.2667" }
+    ]
+  },
+  {
+    "plaka": 26,
+    "il_adi": "Eskişehir",
+    "latitude": "39.7667",
+    "longitude": "30.5206",
+    "ilceler": [
+      { "ilce_adi": "Alpu", "latitude": "39.8000", "longitude": "30.9667" },
+      { "ilce_adi": "Beylikova", "latitude": "39.7167", "longitude": "31.2167" },
+      { "ilce_adi": "Çifteler", "latitude": "39.3833", "longitude": "31.1333" },
+      { "ilce_adi": "Günyüzü", "latitude": "39.3000", "longitude": "31.8167" },
+      { "ilce_adi": "Han", "latitude": "39.1667", "longitude": "31.1333" },
+      { "ilce_adi": "İnönü", "latitude": "39.8000", "longitude": "30.1500" },
+      { "ilce_adi": "Mahmudiye", "latitude": "39.5167", "longitude": "30.9833" },
+      { "ilce_adi": "Mihalgazi", "latitude": "40.0333", "longitude": "30.4167" },
+      { "ilce_adi": "Mihalıççık", "latitude": "39.8833", "longitude": "31.5000" },
+      { "ilce_adi": "Odunpazarı", "latitude": "39.7500", "longitude": "30.5167" },
+      { "ilce_adi": "Sarıcakaya", "latitude": "40.0333", "longitude": "30.6333" },
+      { "ilce_adi": "Seyitgazi", "latitude": "39.4333", "longitude": "30.7000" },
+      { "ilce_adi": "Sivrihisar", "latitude": "39.4500", "longitude": "31.5333" },
+      { "ilce_adi": "Tepebaşı", "latitude": "39.7833", "longitude": "30.5000" }
+    ]
+  },
+  {
+    "plaka": 27,
+    "il_adi": "Gaziantep",
+    "latitude": "37.0662",
+    "longitude": "37.3833",
+    "ilceler": [
+      { "ilce_adi": "Araban", "latitude": "37.4167", "longitude": "37.6833" },
+      { "ilce_adi": "İslahiye", "latitude": "37.0333", "longitude": "36.6333" },
+      { "ilce_adi": "Karkamış", "latitude": "36.8333", "longitude": "37.9833" },
+      { "ilce_adi": "Nizip", "latitude": "37.0167", "longitude": "37.8000" },
+      { "ilce_adi": "Nurdağı", "latitude": "37.1667", "longitude": "36.7000" },
+      { "ilce_adi": "Oğuzeli", "latitude": "36.9667", "longitude": "37.5000" },
+      { "ilce_adi": "Şahinbey", "latitude": "37.0500", "longitude": "37.3667" },
+      { "ilce_adi": "Şehitkamil", "latitude": "37.0833", "longitude": "37.3833" },
+      { "ilce_adi": "Yavuzeli", "latitude": "37.3000", "longitude": "37.5833" }
+    ]
+  },
+  {
+    "plaka": 28,
+    "il_adi": "Giresun",
+    "latitude": "40.9128",
+    "longitude": "38.3895",
+    "ilceler": [
+      { "ilce_adi": "Alucra", "latitude": "40.2833", "longitude": "38.8000" },
+      { "ilce_adi": "Bulancak", "latitude": "40.9333", "longitude": "38.2333" },
+      { "ilce_adi": "Çamoluk", "latitude": "40.1167", "longitude": "38.9333" },
+      { "ilce_adi": "Çanakçı", "latitude": "40.9000", "longitude": "38.9833" },
+      { "ilce_adi": "Dereli", "latitude": "40.7500", "longitude": "38.4500" },
+      { "ilce_adi": "Doğankent", "latitude": "40.8500", "longitude": "38.9500" },
+      { "ilce_adi": "Espiye", "latitude": "40.9667", "longitude": "38.7000" },
+      { "ilce_adi": "Eynesil", "latitude": "41.0500", "longitude": "39.0833" },
+      { "ilce_adi": "Görele", "latitude": "41.0333", "longitude": "39.0167" },
+      { "ilce_adi": "Güce", "latitude": "40.8167", "longitude": "38.8333" },
+      { "ilce_adi": "Keşap", "latitude": "40.9000", "longitude": "38.5167" },
+      { "ilce_adi": "Merkez", "latitude": "40.9128", "longitude": "38.3895" },
+      { "ilce_adi": "Piraziz", "latitude": "40.9500", "longitude": "38.1000" },
+      { "ilce_adi": "Şebinkarahisar", "latitude": "40.2833", "longitude": "38.4167" },
+      { "ilce_adi": "Tirebolu", "latitude": "41.0000", "longitude": "38.8167" },
+      { "ilce_adi": "Yağlıdere", "latitude": "40.8333", "longitude": "38.6333" }
+    ]
+  },
+  {
+    "plaka": 29,
+    "il_adi": "Gümüşhane",
+    "latitude": "40.4600",
+    "longitude": "39.4795",
+    "ilceler": [
+      { "ilce_adi": "Kelkit", "latitude": "40.1333", "longitude": "39.4333" },
+      { "ilce_adi": "Köse", "latitude": "40.2333", "longitude": "39.6333" },
+      { "ilce_adi": "Kürtün", "latitude": "40.7500", "longitude": "39.1167" },
+      { "ilce_adi": "Merkez", "latitude": "40.4600", "longitude": "39.4795" },
+      { "ilce_adi": "Şiran", "latitude": "40.1833", "longitude": "39.1000" },
+      { "ilce_adi": "Torul", "latitude": "40.5500", "longitude": "39.2833" }
+    ]
+  },
+  {
+    "plaka": 30,
+    "il_adi": "Hakkari",
+    "latitude": "37.5744",
+    "longitude": "43.7408",
+    "ilceler": [
+      { "ilce_adi": "Çukurca", "latitude": "37.2500", "longitude": "43.6167" },
+      { "ilce_adi": "Derecik", "latitude": "37.1167", "longitude": "44.2000" },
+      { "ilce_adi": "Merkez", "latitude": "37.5744", "longitude": "43.7408" },
+      { "ilce_adi": "Şemdinli", "latitude": "37.3000", "longitude": "44.5667" },
+      { "ilce_adi": "Yüksekova", "latitude": "37.5667", "longitude": "44.2833" }
+    ]
+  },
+  {
+    "plaka": 31,
+    "il_adi": "Hatay",
+    "latitude": "36.2023",
+    "longitude": "36.1600",
+    "ilceler": [
+      { "ilce_adi": "Altınözü", "latitude": "36.1333", "longitude": "36.3333" },
+      { "ilce_adi": "Antakya", "latitude": "36.2019", "longitude": "36.1600" },
+      { "ilce_adi": "Arsuz", "latitude": "36.4167", "longitude": "35.8833" },
+      { "ilce_adi": "Belen", "latitude": "36.4833", "longitude": "36.2000" },
+      { "ilce_adi": "Defne", "latitude": "36.1667", "longitude": "36.1167" },
+      { "ilce_adi": "Dörtyol", "latitude": "36.8333", "longitude": "36.2167" },
+      { "ilce_adi": "Erzin", "latitude": "36.9500", "longitude": "36.2000" },
+      { "ilce_adi": "Hassa", "latitude": "36.8000", "longitude": "36.5167" },
+      { "ilce_adi": "İskenderun", "latitude": "36.5833", "longitude": "36.1667" },
+      { "ilce_adi": "Kırıkhan", "latitude": "36.5000", "longitude": "36.3500" },
+      { "ilce_adi": "Kumlu", "latitude": "36.2667", "longitude": "36.4833" },
+      { "ilce_adi": "Payas", "latitude": "36.7500", "longitude": "36.2000" },
+      { "ilce_adi": "Reyhanlı", "latitude": "36.2667", "longitude": "36.5667" },
+      { "ilce_adi": "Samandağ", "latitude": "36.0833", "longitude": "35.9667" },
+      { "ilce_adi": "Yayladağı", "latitude": "35.9000", "longitude": "36.0500" }
+    ]
+  },
+  {
+    "plaka": 76,
+    "il_adi": "Iğdır",
+    "latitude": "39.9200",
+    "longitude": "44.0450",
+    "ilceler": [
+      { "ilce_adi": "Aralık", "latitude": "39.8667", "longitude": "44.5000" },
+      { "ilce_adi": "Karakoyunlu", "latitude": "39.9167", "longitude": "44.2167" },
+      { "ilce_adi": "Merkez", "latitude": "39.9200", "longitude": "44.0450" },
+      { "ilce_adi": "Tuzluca", "latitude": "40.0333", "longitude": "43.6500" }
+    ]
+  },
+  {
+    "plaka": 32,
+    "il_adi": "Isparta",
+    "latitude": "37.7648",
+    "longitude": "30.5519",
+    "ilceler": [
+      { "ilce_adi": "Aksu", "latitude": "37.7833", "longitude": "31.0167" },
+      { "ilce_adi": "Atabey", "latitude": "37.9500", "longitude": "30.6333" },
+      { "ilce_adi": "Eğirdir", "latitude": "37.8667", "longitude": "30.8500" },
+      { "ilce_adi": "Gelendost", "latitude": "38.1333", "longitude": "31.0333" },
+      { "ilce_adi": "Gönen", "latitude": "37.8667", "longitude": "30.5000" },
+      { "ilce_adi": "Keçiborlu", "latitude": "37.9333", "longitude": "30.3167" },
+      { "ilce_adi": "Merkez", "latitude": "37.7648", "longitude": "30.5519" },
+      { "ilce_adi": "Senirkent", "latitude": "38.0833", "longitude": "30.5500" },
+      { "ilce_adi": "Sütçüler", "latitude": "37.5333", "longitude": "31.1333" },
+      { "ilce_adi": "Şarkikaraağaç", "latitude": "38.0667", "longitude": "31.3667" },
+      { "ilce_adi": "Uluborlu", "latitude": "38.0667", "longitude": "30.4333" },
+      { "ilce_adi": "Yalvaç", "latitude": "38.3000", "longitude": "31.1833" },
+      { "ilce_adi": "Yenişarbademli", "latitude": "37.7167", "longitude": "31.4000" }
+    ]
+  },
+  {
+    "plaka": 34,
+    "il_adi": "İstanbul",
+    "latitude": "41.0082",
+    "longitude": "28.9784",
+    "ilceler": [
+      { "ilce_adi": "Adalar", "latitude": "40.8752", "longitude": "29.0922" },
+      { "ilce_adi": "Arnavutköy", "latitude": "41.1833", "longitude": "28.7333" },
+      { "ilce_adi": "Ataşehir", "latitude": "40.9833", "longitude": "29.1167" },
+      { "ilce_adi": "Avcılar", "latitude": "41.0000", "longitude": "28.7167" },
+      { "ilce_adi": "Bağcılar", "latitude": "41.0333", "longitude": "28.8500" },
+      { "ilce_adi": "Bahçelievler", "latitude": "41.0000", "longitude": "28.8500" },
+      { "ilce_adi": "Bakırköy", "latitude": "40.9833", "longitude": "28.8667" },
+      { "ilce_adi": "Başakşehir", "latitude": "41.0833", "longitude": "28.8000" },
+      { "ilce_adi": "Bayrampaşa", "latitude": "41.0500", "longitude": "28.9000" },
+      { "ilce_adi": "Beşiktaş", "latitude": "41.0500", "longitude": "29.0000" },
+      { "ilce_adi": "Beykoz", "latitude": "41.1333", "longitude": "29.1000" },
+      { "ilce_adi": "Beylikdüzü", "latitude": "41.0000", "longitude": "28.6500" },
+      { "ilce_adi": "Beyoğlu", "latitude": "41.0333", "longitude": "28.9667" },
+      { "ilce_adi": "Büyükçekmece", "latitude": "41.0167", "longitude": "28.5833" },
+      { "ilce_adi": "Çatalca", "latitude": "41.3333", "longitude": "28.4667" },
+      { "ilce_adi": "Çekmeköy", "latitude": "41.0333", "longitude": "29.2167" },
+      { "ilce_adi": "Esenler", "latitude": "41.0500", "longitude": "28.8667" },
+      { "ilce_adi": "Esenyurt", "latitude": "41.0333", "longitude": "28.6667" },
+      { "ilce_adi": "Eyüpsultan", "latitude": "41.0667", "longitude": "28.9167" },
+      { "ilce_adi": "Fatih", "latitude": "41.0167", "longitude": "28.9500" },
+      { "ilce_adi": "Gaziosmanpaşa", "latitude": "41.0667", "longitude": "28.9000" },
+      { "ilce_adi": "Güngören", "latitude": "41.0167", "longitude": "28.8667" },
+      { "ilce_adi": "Kadıköy", "latitude": "40.9833", "longitude": "29.0500" },
+      { "ilce_adi": "Kağıthane", "latitude": "41.0833", "longitude": "28.9667" },
+      { "ilce_adi": "Kartal", "latitude": "40.9000", "longitude": "29.1833" },
+      { "ilce_adi": "Küçükçekmece", "latitude": "41.0167", "longitude": "28.7667" },
+      { "ilce_adi": "Maltepe", "latitude": "40.9500", "longitude": "29.1333" },
+      { "ilce_adi": "Pendik", "latitude": "40.8667", "longitude": "29.2500" },
+      { "ilce_adi": "Sancaktepe", "latitude": "41.0000", "longitude": "29.2167" },
+      { "ilce_adi": "Sarıyer", "latitude": "41.1667", "longitude": "29.0500" },
+      { "ilce_adi": "Silivri", "latitude": "41.0667", "longitude": "28.2500" },
+      { "ilce_adi": "Sultanbeyli", "latitude": "40.9667", "longitude": "29.2667" },
+      { "ilce_adi": "Sultangazi", "latitude": "41.1167", "longitude": "28.8667" },
+      { "ilce_adi": "Şile", "latitude": "41.1667", "longitude": "29.6167" },
+      { "ilce_adi": "Şişli", "latitude": "41.0667", "longitude": "28.9833" },
+      { "ilce_adi": "Tuzla", "latitude": "40.8167", "longitude": "29.3167" },
+      { "ilce_adi": "Ümraniye", "latitude": "41.0167", "longitude": "29.1167" },
+      { "ilce_adi": "Üsküdar", "latitude": "41.0333", "longitude": "29.0333" },
+      { "ilce_adi": "Zeytinburnu", "latitude": "40.9833", "longitude": "28.9000" }
+    ]
+  },
+  {
+    "plaka": 35,
+    "il_adi": "İzmir",
+    "latitude": "38.4237",
+    "longitude": "27.1428",
+    "ilceler": [
+      { "ilce_adi": "Aliağa", "latitude": "38.8000", "longitude": "26.9667" },
+      { "ilce_adi": "Balçova", "latitude": "38.4000", "longitude": "27.0667" },
+      { "ilce_adi": "Bayındır", "latitude": "38.2167", "longitude": "27.6500" },
+      { "ilce_adi": "Bayraklı", "latitude": "38.4500", "longitude": "27.1833" },
+      { "ilce_adi": "Bergama", "latitude": "39.1167", "longitude": "27.1833" },
+      { "ilce_adi": "Beydağ", "latitude": "38.1667", "longitude": "28.2500" },
+      { "ilce_adi": "Bornova", "latitude": "38.4667", "longitude": "27.2167" },
+      { "ilce_adi": "Buca", "latitude": "38.3667", "longitude": "27.1667" },
+      { "ilce_adi": "Çeşme", "latitude": "38.3167", "longitude": "26.3000" },
+      { "ilce_adi": "Çiğli", "latitude": "38.5167", "longitude": "27.0667" },
+      { "ilce_adi": "Dikili", "latitude": "39.0667", "longitude": "26.8833" },
+      { "ilce_adi": "Foça", "latitude": "38.6667", "longitude": "26.7500" },
+      { "ilce_adi": "Gaziemir", "latitude": "38.3167", "longitude": "27.1333" },
+      { "ilce_adi": "Güzelbahçe", "latitude": "38.3833", "longitude": "26.9167" },
+      { "ilce_adi": "Karabağlar", "latitude": "38.3833", "longitude": "27.1167" },
+      { "ilce_adi": "Karaburun", "latitude": "38.6333", "longitude": "26.5167" },
+      { "ilce_adi": "Karşıyaka", "latitude": "38.4500", "longitude": "27.1000" },
+      { "ilce_adi": "Kemalpaşa", "latitude": "38.4167", "longitude": "27.4167" },
+      { "ilce_adi": "Kınık", "latitude": "39.0833", "longitude": "27.3833" },
+      { "ilce_adi": "Kiraz", "latitude": "38.2167", "longitude": "28.1667" },
+      { "ilce_adi": "Konak", "latitude": "38.4167", "longitude": "27.1333" },
+      { "ilce_adi": "Menderes", "latitude": "38.2500", "longitude": "27.1333" },
+      { "ilce_adi": "Menemen", "latitude": "38.6000", "longitude": "27.0667" },
+      { "ilce_adi": "Narlıdere", "latitude": "38.4000", "longitude": "27.0000" },
+      { "ilce_adi": "Ödemiş", "latitude": "38.2333", "longitude": "27.9667" },
+      { "ilce_adi": "Seferihisar", "latitude": "38.2000", "longitude": "26.8333" },
+      { "ilce_adi": "Selçuk", "latitude": "37.9500", "longitude": "27.3667" },
+      { "ilce_adi": "Tire", "latitude": "38.0833", "longitude": "27.7333" },
+      { "ilce_adi": "Torbalı", "latitude": "38.1500", "longitude": "27.3667" },
+      { "ilce_adi": "Urla", "latitude": "38.3167", "longitude": "26.7667" }
+    ]
+  },
+  {
+    "plaka": 46,
+    "il_adi": "Kahramanmaraş",
+    "latitude": "37.5753",
+    "longitude": "36.9223",
+    "ilceler": [
+      { "ilce_adi": "Afşin", "latitude": "38.2500", "longitude": "36.9167" },
+      { "ilce_adi": "Andırın", "latitude": "37.5833", "longitude": "36.3500" },
+      { "ilce_adi": "Çağlayancerit", "latitude": "37.7500", "longitude": "37.2833" },
+      { "ilce_adi": "Dulkadiroğlu", "latitude": "37.5667", "longitude": "36.9333" },
+      { "ilce_adi": "Ekinözü", "latitude": "38.0667", "longitude": "37.1667" },
+      { "ilce_adi": "Elbistan", "latitude": "38.2000", "longitude": "37.2000" },
+      { "ilce_adi": "Göksun", "latitude": "38.0167", "longitude": "36.5000" },
+      { "ilce_adi": "Nurhak", "latitude": "37.9667", "longitude": "37.4667" },
+      { "ilce_adi": "Onikişubat", "latitude": "37.5833", "longitude": "36.8833" },
+      { "ilce_adi": "Pazarcık", "latitude": "37.4833", "longitude": "37.3000" },
+      { "ilce_adi": "Türkoğlu", "latitude": "37.4000", "longitude": "36.8167" }
+    ]
+  },
+  {
+    "plaka": 78,
+    "il_adi": "Karabük",
+    "latitude": "41.1969",
+    "longitude": "32.6281",
+    "ilceler": [
+      { "ilce_adi": "Eflani", "latitude": "41.4333", "longitude": "32.9500" },
+      { "ilce_adi": "Eskipazar", "latitude": "40.9500", "longitude": "32.5333" },
+      { "ilce_adi": "Merkez", "latitude": "41.1969", "longitude": "32.6281" },
+      { "ilce_adi": "Ovacık", "latitude": "41.0833", "longitude": "32.8167" },
+      { "ilce_adi": "Safranbolu", "latitude": "41.2500", "longitude": "32.6833" },
+      { "ilce_adi": "Yenice", "latitude": "41.2000", "longitude": "32.3333" }
+    ]
+  },
+  {
+    "plaka": 70,
+    "il_adi": "Karaman",
+    "latitude": "37.1811",
+    "longitude": "33.2189",
+    "ilceler": [
+      { "ilce_adi": "Ayrancı", "latitude": "37.3167", "longitude": "33.7167" },
+      { "ilce_adi": "Başyayla", "latitude": "36.8333", "longitude": "32.6833" },
+      { "ilce_adi": "Ermenek", "latitude": "36.6333", "longitude": "32.9000" },
+      { "ilce_adi": "Kazımkarabekir", "latitude": "37.2167", "longitude": "32.9833" },
+      { "ilce_adi": "Merkez", "latitude": "37.1811", "longitude": "33.2189" },
+      { "ilce_adi": "Sarıveliler", "latitude": "36.6667", "longitude": "32.6167" }
+    ]
+  },
+  {
+    "plaka": 36,
+    "il_adi": "Kars",
+    "latitude": "40.6013",
+    "longitude": "43.0975",
+    "ilceler": [
+      { "ilce_adi": "Akyaka", "latitude": "40.8167", "longitude": "43.6167" },
+      { "ilce_adi": "Arpaçay", "latitude": "40.8167", "longitude": "43.4000" },
+      { "ilce_adi": "Digor", "latitude": "40.3667", "longitude": "43.4000" },
+      { "ilce_adi": "Kağızman", "latitude": "40.1333", "longitude": "43.1333" },
+      { "ilce_adi": "Merkez", "latitude": "40.6013", "longitude": "43.0975" },
+      { "ilce_adi": "Sarıkamış", "latitude": "40.3333", "longitude": "42.5833" },
+      { "ilce_adi": "Selim", "latitude": "40.4667", "longitude": "42.7833" },
+      { "ilce_adi": "Susuz", "latitude": "40.7667", "longitude": "43.1500" }
+    ]
+  },
+  {
+    "plaka": 37,
+    "il_adi": "Kastamonu",
+    "latitude": "41.3784",
+    "longitude": "33.7763",
+    "ilceler": [
+      { "ilce_adi": "Abana", "latitude": "41.9833", "longitude": "34.0167" },
+      { "ilce_adi": "Ağlı", "latitude": "41.6500", "longitude": "33.4500" },
+      { "ilce_adi": "Araç", "latitude": "41.2500", "longitude": "33.3167" },
+      { "ilce_adi": "Azdavay", "latitude": "41.6167", "longitude": "33.2833" },
+      { "ilce_adi": "Bozkurt", "latitude": "41.9667", "longitude": "34.0167" },
+      { "ilce_adi": "Cide", "latitude": "41.9000", "longitude": "32.9833" },
+      { "ilce_adi": "Çatalzeytin", "latitude": "41.9500", "longitude": "34.2167" },
+      { "ilce_adi": "Daday", "latitude": "41.4833", "longitude": "33.4667" },
+      { "ilce_adi": "Devrekani", "latitude": "41.5667", "longitude": "33.8500" },
+      { "ilce_adi": "Doğanyurt", "latitude": "41.9500", "longitude": "33.5167" },
+      { "ilce_adi": "Hanönü", "latitude": "41.4333", "longitude": "34.4667" },
+      { "ilce_adi": "İhsangazi", "latitude": "41.3500", "longitude": "33.5000" },
+      { "ilce_adi": "İnebolu", "latitude": "41.9667", "longitude": "33.7667" },
+      { "ilce_adi": "Küre", "latitude": "41.8167", "longitude": "33.7167" },
+      { "ilce_adi": "Merkez", "latitude": "41.3784", "longitude": "33.7763" },
+      { "ilce_adi": "Pınarbaşı", "latitude": "41.6000", "longitude": "33.1000" },
+      { "ilce_adi": "Seydiler", "latitude": "41.5667", "longitude": "33.6167" },
+      { "ilce_adi": "Şenpazar", "latitude": "41.7667", "longitude": "33.2500" },
+      { "ilce_adi": "Taşköprü", "latitude": "41.5167", "longitude": "34.2167" },
+      { "ilce_adi": "Tosya", "latitude": "41.0167", "longitude": "34.0500" }
+    ]
+  },
+  {
+    "plaka": 38,
+    "il_adi": "Kayseri",
+    "latitude": "38.7205",
+    "longitude": "35.4826",
+    "ilceler": [
+      { "ilce_adi": "Akkışla", "latitude": "39.0667", "longitude": "35.9833" },
+      { "ilce_adi": "Bünyan", "latitude": "38.9000", "longitude": "35.8500" },
+      { "ilce_adi": "Develi", "latitude": "38.3833", "longitude": "35.4833" },
+      { "ilce_adi": "Felahiye", "latitude": "39.1167", "longitude": "35.5333" },
+      { "ilce_adi": "Hacılar", "latitude": "38.6500", "longitude": "35.4500" },
+      { "ilce_adi": "İncesu", "latitude": "38.6500", "longitude": "35.1500" },
+      { "ilce_adi": "Kocasinan", "latitude": "38.7333", "longitude": "35.4833" },
+      { "ilce_adi": "Melikgazi", "latitude": "38.7167", "longitude": "35.5000" },
+      { "ilce_adi": "Özvatan", "latitude": "39.1000", "longitude": "35.8000" },
+      { "ilce_adi": "Pınarbaşı", "latitude": "38.7167", "longitude": "36.3833" },
+      { "ilce_adi": "Sarıoğlan", "latitude": "39.0333", "longitude": "35.9333" },
+      { "ilce_adi": "Sarız", "latitude": "38.4833", "longitude": "36.5000" },
+      { "ilce_adi": "Talas", "latitude": "38.7000", "longitude": "35.5667" },
+      { "ilce_adi": "Tomarza", "latitude": "38.4500", "longitude": "35.8167" },
+      { "ilce_adi": "Yahyalı", "latitude": "38.1167", "longitude": "35.3500" },
+      { "ilce_adi": "Yeşilhisar", "latitude": "38.3500", "longitude": "35.0833" }
+    ]
+  },
+  {
+    "plaka": 79,
+    "il_adi": "Kilis",
+    "latitude": "36.7167",
+    "longitude": "37.1167",
+    "ilceler": [
+      { "ilce_adi": "Elbeyli", "latitude": "36.7833", "longitude": "37.3167" },
+      { "ilce_adi": "Merkez", "latitude": "36.7167", "longitude": "37.1167" },
+      { "ilce_adi": "Musabeyli", "latitude": "36.8500", "longitude": "36.9333" },
+      { "ilce_adi": "Polateli", "latitude": "36.7833", "longitude": "37.0333" }
+    ]
+  },
+  {
+    "plaka": 41,
+    "il_adi": "Kocaeli",
+    "latitude": "40.7656",
+    "longitude": "29.9406",
+    "ilceler": [
+      { "ilce_adi": "Başiskele", "latitude": "40.7167", "longitude": "29.9333" },
+      { "ilce_adi": "Çayırova", "latitude": "40.8333", "longitude": "29.3667" },
+      { "ilce_adi": "Darıca", "latitude": "40.7833", "longitude": "29.3833" },
+      { "ilce_adi": "Derince", "latitude": "40.7667", "longitude": "29.8333" },
+      { "ilce_adi": "Dilovası", "latitude": "40.7833", "longitude": "29.5333" },
+      { "ilce_adi": "Gebze", "latitude": "40.8000", "longitude": "29.4333" },
+      { "ilce_adi": "Gölcük", "latitude": "40.7167", "longitude": "29.8167" },
+      { "ilce_adi": "İzmit", "latitude": "40.7656", "longitude": "29.9406" },
+      { "ilce_adi": "Kandıra", "latitude": "41.0667", "longitude": "30.1500" },
+      { "ilce_adi": "Karamürsel", "latitude": "40.6833", "longitude": "29.6167" },
+      { "ilce_adi": "Kartepe", "latitude": "40.7500", "longitude": "30.0167" },
+      { "ilce_adi": "Körfez", "latitude": "40.7667", "longitude": "29.7500" }
+    ]
+  },
+  {
+    "plaka": 42,
+    "il_adi": "Konya",
+    "latitude": "37.8746",
+    "longitude": "32.4932",
+    "ilceler": [
+      { "ilce_adi": "Ahırlı", "latitude": "37.3000", "longitude": "32.2000" },
+      { "ilce_adi": "Akören", "latitude": "37.5500", "longitude": "32.3333" },
+      { "ilce_adi": "Akşehir", "latitude": "38.3500", "longitude": "31.4167" },
+      { "ilce_adi": "Altınekin", "latitude": "38.3167", "longitude": "32.9667" },
+      { "ilce_adi": "Beyşehir", "latitude": "37.6833", "longitude": "31.7167" },
+      { "ilce_adi": "Bozkır", "latitude": "37.1833", "longitude": "32.2500" },
+      { "ilce_adi": "Cihanbeyli", "latitude": "38.6500", "longitude": "32.9167" },
+      { "ilce_adi": "Çeltik", "latitude": "38.5833", "longitude": "31.8167" },
+      { "ilce_adi": "Çumra", "latitude": "37.5667", "longitude": "32.7667" },
+      { "ilce_adi": "Derbent", "latitude": "38.1000", "longitude": "32.0667" },
+      { "ilce_adi": "Derebucak", "latitude": "37.4500", "longitude": "31.5500" },
+      { "ilce_adi": "Doğanhisar", "latitude": "38.1333", "longitude": "31.6833" },
+      { "ilce_adi": "Emirgazi", "latitude": "38.1333", "longitude": "33.8500" },
+      { "ilce_adi": "Ereğli", "latitude": "37.5167", "longitude": "34.0500" },
+      { "ilce_adi": "Güneysınır", "latitude": "37.2833", "longitude": "32.7167" },
+      { "ilce_adi": "Hadim", "latitude": "36.9833", "longitude": "32.4667" },
+      { "ilce_adi": "Halkapınar", "latitude": "37.4667", "longitude": "34.3333" },
+      { "ilce_adi": "Hüyük", "latitude": "37.9500", "longitude": "31.6000" },
+      { "ilce_adi": "Ilgın", "latitude": "38.2833", "longitude": "31.9167" },
+      { "ilce_adi": "Kadınhanı", "latitude": "38.2333", "longitude": "32.2000" },
+      { "ilce_adi": "Karapınar", "latitude": "37.7167", "longitude": "33.5500" },
+      { "ilce_adi": "Karatay", "latitude": "37.8833", "longitude": "32.5167" },
+      { "ilce_adi": "Kulu", "latitude": "39.0833", "longitude": "33.0833" },
+      { "ilce_adi": "Meram", "latitude": "37.8667", "longitude": "32.4667" },
+      { "ilce_adi": "Sarayönü", "latitude": "38.1833", "longitude": "32.4000" },
+      { "ilce_adi": "Selçuklu", "latitude": "37.9167", "longitude": "32.4833" },
+      { "ilce_adi": "Seydişehir", "latitude": "37.4167", "longitude": "31.8500" },
+      { "ilce_adi": "Taşkent", "latitude": "36.9333", "longitude": "32.5000" },
+      { "ilce_adi": "Tuzlukçu", "latitude": "38.4500", "longitude": "31.6333" },
+      { "ilce_adi": "Yalıhüyük", "latitude": "37.3000", "longitude": "32.0833" },
+      { "ilce_adi": "Yunak", "latitude": "38.8167", "longitude": "31.7333" }
+    ]
+  },
+  {
+    "plaka": 43,
+    "il_adi": "Kütahya",
+    "latitude": "39.4242",
+    "longitude": "29.9833",
+    "ilceler": [
+      { "ilce_adi": "Altıntaş", "latitude": "39.1167", "longitude": "30.1333" },
+      { "ilce_adi": "Aslanapa", "latitude": "39.2333", "longitude": "29.9000" },
+      { "ilce_adi": "Çavdarhisar", "latitude": "39.2000", "longitude": "29.6167" },
+      { "ilce_adi": "Domaniç", "latitude": "39.8000", "longitude": "29.6167" },
+      { "ilce_adi": "Dumlupınar", "latitude": "38.8667", "longitude": "29.9667" },
+      { "ilce_adi": "Emet", "latitude": "39.3333", "longitude": "29.2667" },
+      { "ilce_adi": "Gediz", "latitude": "38.9833", "longitude": "29.4167" },
+      { "ilce_adi": "Hisarcık", "latitude": "39.2500", "longitude": "29.1500" },
+      { "ilce_adi": "Merkez", "latitude": "39.4242", "longitude": "29.9833" },
+      { "ilce_adi": "Pazarlar", "latitude": "38.9333", "longitude": "29.2167" },
+      { "ilce_adi": "Simav", "latitude": "39.0833", "longitude": "28.9667" },
+      { "ilce_adi": "Şaphane", "latitude": "38.9667", "longitude": "29.1833" },
+      { "ilce_adi": "Tavşanlı", "latitude": "39.5667", "longitude": "29.5000" }
+    ]
+  },
+  {
+    "plaka": 44,
+    "il_adi": "Malatya",
+    "latitude": "38.3552",
+    "longitude": "38.3095",
+    "ilceler": [
+      { "ilce_adi": "Akçadağ", "latitude": "38.3333", "longitude": "37.9500" },
+      { "ilce_adi": "Arapgir", "latitude": "39.0333", "longitude": "38.4833" },
+      { "ilce_adi": "Arguvan", "latitude": "38.7833", "longitude": "38.2500" },
+      { "ilce_adi": "Battalgazi", "latitude": "38.3833", "longitude": "38.3833" },
+      { "ilce_adi": "Darende", "latitude": "38.5500", "longitude": "37.5000" },
+      { "ilce_adi": "Doğanşehir", "latitude": "38.0833", "longitude": "37.8667" },
+      { "ilce_adi": "Doğanyol", "latitude": "38.3167", "longitude": "38.9333" },
+      { "ilce_adi": "Hekimhan", "latitude": "38.8167", "longitude": "37.9500" },
+      { "ilce_adi": "Kale", "latitude": "38.4333", "longitude": "38.7333" },
+      { "ilce_adi": "Kuluncak", "latitude": "38.8333", "longitude": "37.5333" },
+      { "ilce_adi": "Pütürge", "latitude": "38.2333", "longitude": "38.7333" },
+      { "ilce_adi": "Yazıhan", "latitude": "38.5500", "longitude": "38.1667" },
+      { "ilce_adi": "Yeşilyurt", "latitude": "38.3333", "longitude": "38.2667" }
+    ]
+  },
+  {
+    "plaka": 45,
+    "il_adi": "Manisa",
+    "latitude": "38.6191",
+    "longitude": "27.4289",
+    "ilceler": [
+      { "ilce_adi": "Ahmetli", "latitude": "38.5167", "longitude": "27.9500" },
+      { "ilce_adi": "Akhisar", "latitude": "38.9167", "longitude": "27.8333" },
+      { "ilce_adi": "Alaşehir", "latitude": "38.3500", "longitude": "28.5167" },
+      { "ilce_adi": "Demirci", "latitude": "39.0500", "longitude": "28.6667" },
+      { "ilce_adi": "Gölmarmara", "latitude": "38.7000", "longitude": "27.9167" },
+      { "ilce_adi": "Gördes", "latitude": "38.9333", "longitude": "28.2833" },
+      { "ilce_adi": "Kırkağaç", "latitude": "39.1000", "longitude": "27.6667" },
+      { "ilce_adi": "Köprübaşı", "latitude": "38.7333", "longitude": "28.4000" },
+      { "ilce_adi": "Kula", "latitude": "38.5500", "longitude": "28.6500" },
+      { "ilce_adi": "Salihli", "latitude": "38.4833", "longitude": "28.1333" },
+      { "ilce_adi": "Sarıgöl", "latitude": "38.2333", "longitude": "28.7000" },
+      { "ilce_adi": "Saruhanlı", "latitude": "38.7333", "longitude": "27.5667" },
+      { "ilce_adi": "Selendi", "latitude": "38.7500", "longitude": "28.8667" },
+      { "ilce_adi": "Soma", "latitude": "39.1833", "longitude": "27.6167" },
+      { "ilce_adi": "Şehzadeler", "latitude": "38.6167", "longitude": "27.4333" },
+      { "ilce_adi": "Turgutlu", "latitude": "38.5000", "longitude": "27.7000" },
+      { "ilce_adi": "Yunusemre", "latitude": "38.6333", "longitude": "27.4000" }
+    ]
+  },
+  {
+    "plaka": 47,
+    "il_adi": "Mardin",
+    "latitude": "37.3123",
+    "longitude": "40.7339",
+    "ilceler": [
+      { "ilce_adi": "Artuklu", "latitude": "37.3167", "longitude": "40.7333" },
+      { "ilce_adi": "Dargeçit", "latitude": "37.5667", "longitude": "41.7667" },
+      { "ilce_adi": "Derik", "latitude": "37.3667", "longitude": "40.2667" },
+      { "ilce_adi": "Kızıltepe", "latitude": "37.1833", "longitude": "40.5833" },
+      { "ilce_adi": "Mazıdağı", "latitude": "37.4833", "longitude": "40.4833" },
+      { "ilce_adi": "Midyat", "latitude": "37.4167", "longitude": "41.5000" },
+      { "ilce_adi": "Nusaybin", "latitude": "37.0833", "longitude": "41.2167" },
+      { "ilce_adi": "Ömerli", "latitude": "37.4000", "longitude": "40.9500" },
+      { "ilce_adi": "Savur", "latitude": "37.5333", "longitude": "40.8833" },
+      { "ilce_adi": "Yeşilli", "latitude": "37.3333", "longitude": "40.8167" }
+    ]
+  },
+  {
+    "plaka": 33,
+    "il_adi": "Mersin",
+    "latitude": "36.8121",
+    "longitude": "34.6415",
+    "ilceler": [
+      { "ilce_adi": "Akdeniz", "latitude": "36.8167", "longitude": "34.6333" },
+      { "ilce_adi": "Anamur", "latitude": "36.0833", "longitude": "32.8833" },
+      { "ilce_adi": "Aydıncık", "latitude": "36.1500", "longitude": "33.3167" },
+      { "ilce_adi": "Bozyazı", "latitude": "36.1000", "longitude": "32.9667" },
+      { "ilce_adi": "Çamlıyayla", "latitude": "37.1667", "longitude": "34.6000" },
+      { "ilce_adi": "Erdemli", "latitude": "36.6000", "longitude": "34.3167" },
+      { "ilce_adi": "Gülnar", "latitude": "36.3333", "longitude": "33.4167" },
+      { "ilce_adi": "Mezitli", "latitude": "36.7500", "longitude": "34.5167" },
+      { "ilce_adi": "Mut", "latitude": "36.6500", "longitude": "33.4333" },
+      { "ilce_adi": "Silifke", "latitude": "36.3833", "longitude": "33.9333" },
+      { "ilce_adi": "Tarsus", "latitude": "36.9167", "longitude": "34.9000" },
+      { "ilce_adi": "Toroslar", "latitude": "36.8333", "longitude": "34.6167" },
+      { "ilce_adi": "Yenişehir", "latitude": "36.8000", "longitude": "34.5833" }
+    ]
+  },
+  {
+    "plaka": 48,
+    "il_adi": "Muğla",
+    "latitude": "37.2153",
+    "longitude": "28.3636",
+    "ilceler": [
+      { "ilce_adi": "Bodrum", "latitude": "37.0333", "longitude": "27.4333" },
+      { "ilce_adi": "Dalaman", "latitude": "36.7667", "longitude": "28.8000" },
+      { "ilce_adi": "Datça", "latitude": "36.7333", "longitude": "27.6833" },
+      { "ilce_adi": "Fethiye", "latitude": "36.6167", "longitude": "29.1167" },
+      { "ilce_adi": "Kavaklıdere", "latitude": "37.4000", "longitude": "28.3833" },
+      { "ilce_adi": "Köyceğiz", "latitude": "36.9667", "longitude": "28.6833" },
+      { "ilce_adi": "Marmaris", "latitude": "36.8500", "longitude": "28.2667" },
+      { "ilce_adi": "Menteşe", "latitude": "37.2153", "longitude": "28.3636" },
+      { "ilce_adi": "Milas", "latitude": "37.3167", "longitude": "27.7833" },
+      { "ilce_adi": "Ortaca", "latitude": "36.8333", "longitude": "28.7667" },
+      { "ilce_adi": "Seydikemer", "latitude": "36.8333", "longitude": "29.3500" },
+      { "ilce_adi": "Ula", "latitude": "37.1167", "longitude": "28.4167" },
+      { "ilce_adi": "Yatağan", "latitude": "37.3333", "longitude": "28.1333" }
+    ]
+  },
+  {
+    "plaka": 49,
+    "il_adi": "Muş",
+    "latitude": "38.7345",
+    "longitude": "41.4913",
+    "ilceler": [
+      { "ilce_adi": "Bulanık", "latitude": "39.0833", "longitude": "42.2667" },
+      { "ilce_adi": "Hasköy", "latitude": "38.6500", "longitude": "41.6833" },
+      { "ilce_adi": "Korkut", "latitude": "38.6667", "longitude": "41.7833" },
+      { "ilce_adi": "Malazgirt", "latitude": "39.1500", "longitude": "42.5333" },
+      { "ilce_adi": "Merkez", "latitude": "38.7345", "longitude": "41.4913" },
+      { "ilce_adi": "Varto", "latitude": "39.1667", "longitude": "41.4667" }
+    ]
+  },
+  {
+    "plaka": 50,
+    "il_adi": "Nevşehir",
+    "latitude": "38.6250",
+    "longitude": "34.7145",
+    "ilceler": [
+      { "ilce_adi": "Acıgöl", "latitude": "38.5667", "longitude": "34.5000" },
+      { "ilce_adi": "Avanos", "latitude": "38.7167", "longitude": "34.8500" },
+      { "ilce_adi": "Derinkuyu", "latitude": "38.3667", "longitude": "34.7333" },
+      { "ilce_adi": "Gülşehir", "latitude": "38.7333", "longitude": "34.6000" },
+      { "ilce_adi": "Hacıbektaş", "latitude": "38.9333", "longitude": "34.5667" },
+      { "ilce_adi": "Kozaklı", "latitude": "39.2167", "longitude": "34.8500" },
+      { "ilce_adi": "Merkez", "latitude": "38.6250", "longitude": "34.7145" },
+      { "ilce_adi": "Ürgüp", "latitude": "38.6333", "longitude": "34.9167" }
+    ]
+  },
+  {
+    "plaka": 51,
+    "il_adi": "Niğde",
+    "latitude": "37.9667",
+    "longitude": "34.6833",
+    "ilceler": [
+      { "ilce_adi": "Altunhisar", "latitude": "38.3667", "longitude": "34.3667" },
+      { "ilce_adi": "Bor", "latitude": "37.8833", "longitude": "34.5667" },
+      { "ilce_adi": "Çamardı", "latitude": "37.8167", "longitude": "35.0167" },
+      { "ilce_adi": "Çiftlik", "latitude": "38.3333", "longitude": "34.4667" },
+      { "ilce_adi": "Merkez", "latitude": "37.9667", "longitude": "34.6833" },
+      { "ilce_adi": "Ulukışla", "latitude": "37.5500", "longitude": "34.5500" }
+    ]
+  },
+  {
+    "plaka": 52,
+    "il_adi": "Ordu",
+    "latitude": "40.9833",
+    "longitude": "37.8833",
+    "ilceler": [
+      { "ilce_adi": "Akkuş", "latitude": "40.8000", "longitude": "37.0333" },
+      { "ilce_adi": "Altınordu", "latitude": "40.9833", "longitude": "37.8833" },
+      { "ilce_adi": "Aybastı", "latitude": "40.6667", "longitude": "37.4000" },
+      { "ilce_adi": "Çamaş", "latitude": "40.8833", "longitude": "37.4833" },
+      { "ilce_adi": "Çatalpınar", "latitude": "40.8167", "longitude": "37.4667" },
+      { "ilce_adi": "Çaybaşı", "latitude": "40.9667", "longitude": "37.1667" },
+      { "ilce_adi": "Fatsa", "latitude": "41.0333", "longitude": "37.5000" },
+      { "ilce_adi": "Gölköy", "latitude": "40.6833", "longitude": "37.6167" },
+      { "ilce_adi": "Gülyalı", "latitude": "40.9833", "longitude": "38.0167" },
+      { "ilce_adi": "Gürgentepe", "latitude": "40.7500", "longitude": "37.6667" },
+      { "ilce_adi": "İkizce", "latitude": "40.9333", "longitude": "36.9500" },
+      { "ilce_adi": "Kabadüz", "latitude": "40.8333", "longitude": "37.8833" },
+      { "ilce_adi": "Kabataş", "latitude": "40.7667", "longitude": "37.4333" },
+      { "ilce_adi": "Korgan", "latitude": "40.8167", "longitude": "37.3500" },
+      { "ilce_adi": "Kumru", "latitude": "40.8667", "longitude": "37.2667" },
+      { "ilce_adi": "Mesudiye", "latitude": "40.4667", "longitude": "37.7167" },
+      { "ilce_adi": "Perşembe", "latitude": "41.0667", "longitude": "37.7667" },
+      { "ilce_adi": "Ulubey", "latitude": "40.8667", "longitude": "37.7500" },
+      { "ilce_adi": "Ünye", "latitude": "41.1333", "longitude": "37.2833" }
+    ]
+  },
+  {
+    "plaka": 80,
+    "il_adi": "Osmaniye",
+    "latitude": "37.0746",
+    "longitude": "36.2464",
+    "ilceler": [
+      { "ilce_adi": "Bahçe", "latitude": "37.2000", "longitude": "36.5667" },
+      { "ilce_adi": "Düziçi", "latitude": "37.2333", "longitude": "36.4500" },
+      { "ilce_adi": "Hasanbeyli", "latitude": "37.1333", "longitude": "36.5333" },
+      { "ilce_adi": "Kadirli", "latitude": "37.3667", "longitude": "36.1000" },
+      { "ilce_adi": "Merkez", "latitude": "37.0746", "longitude": "36.2464" },
+      { "ilce_adi": "Sumbas", "latitude": "37.5000", "longitude": "36.1000" },
+      { "ilce_adi": "Toprakkale", "latitude": "37.0667", "longitude": "36.1500" }
+    ]
+  },
+  {
+    "plaka": 53,
+    "il_adi": "Rize",
+    "latitude": "41.0201",
+    "longitude": "40.5234",
+    "ilceler": [
+      { "ilce_adi": "Ardeşen", "latitude": "41.1833", "longitude": "40.9833" },
+      { "ilce_adi": "Çamlıhemşin", "latitude": "41.0000", "longitude": "41.0167" },
+      { "ilce_adi": "Çayeli", "latitude": "41.0833", "longitude": "40.7167" },
+      { "ilce_adi": "Derepazarı", "latitude": "41.0167", "longitude": "40.3833" },
+      { "ilce_adi": "Fındıklı", "latitude": "41.2667", "longitude": "41.1333" },
+      { "ilce_adi": "Güneysu", "latitude": "40.9500", "longitude": "40.5833" },
+      { "ilce_adi": "Hemşin", "latitude": "41.0667", "longitude": "40.9000" },
+      { "ilce_adi": "İkizdere", "latitude": "40.7000", "longitude": "40.4000" },
+      { "ilce_adi": "İyidere", "latitude": "40.9833", "longitude": "40.3167" },
+      { "ilce_adi": "Kalkandere", "latitude": "40.9167", "longitude": "40.3667" },
+      { "ilce_adi": "Merkez", "latitude": "41.0201", "longitude": "40.5234" },
+      { "ilce_adi": "Pazar", "latitude": "41.1667", "longitude": "40.8833" }
+    ]
+  },
+  {
+    "plaka": 54,
+    "il_adi": "Sakarya",
+    "latitude": "40.7730",
+    "longitude": "30.3948",
+    "ilceler": [
+      { "ilce_adi": "Adapazarı", "latitude": "40.7833", "longitude": "30.4000" },
+      { "ilce_adi": "Akyazı", "latitude": "40.6833", "longitude": "30.6167" },
+      { "ilce_adi": "Arifiye", "latitude": "40.7167", "longitude": "30.3667" },
+      { "ilce_adi": "Erenler", "latitude": "40.7500", "longitude": "30.4167" },
+      { "ilce_adi": "Ferizli", "latitude": "40.9500", "longitude": "30.5000" },
+      { "ilce_adi": "Geyve", "latitude": "40.5167", "longitude": "30.2833" },
+      { "ilce_adi": "Hendek", "latitude": "40.8000", "longitude": "30.7500" },
+      { "ilce_adi": "Karapürçek", "latitude": "40.6500", "longitude": "30.5500" },
+      { "ilce_adi": "Karasu", "latitude": "41.0833", "longitude": "30.6833" },
+      { "ilce_adi": "Kaynarca", "latitude": "40.9833", "longitude": "30.5833" },
+      { "ilce_adi": "Kocaali", "latitude": "41.0667", "longitude": "30.8500" },
+      { "ilce_adi": "Pamukova", "latitude": "40.5167", "longitude": "30.1833" },
+      { "ilce_adi": "Sapanca", "latitude": "40.7167", "longitude": "30.2667" },
+      { "ilce_adi": "Serdivan", "latitude": "40.7833", "longitude": "30.3667" },
+      { "ilce_adi": "Söğütlü", "latitude": "40.9333", "longitude": "30.4500" },
+      { "ilce_adi": "Taraklı", "latitude": "40.5500", "longitude": "30.5000" }
+    ]
+  },
+  {
+    "plaka": 55,
+    "il_adi": "Samsun",
+    "latitude": "41.2798",
+    "longitude": "36.3361",
+    "ilceler": [
+      { "ilce_adi": "Alaçam", "latitude": "41.6000", "longitude": "35.6000" },
+      { "ilce_adi": "Asarcık", "latitude": "41.0333", "longitude": "36.2167" },
+      { "ilce_adi": "Atakum", "latitude": "41.3500", "longitude": "36.2500" },
+      { "ilce_adi": "Ayvacık", "latitude": "40.9833", "longitude": "36.6333" },
+      { "ilce_adi": "Bafra", "latitude": "41.5667", "longitude": "35.9000" },
+      { "ilce_adi": "Canik", "latitude": "41.2833", "longitude": "36.3667" },
+      { "ilce_adi": "Çarşamba", "latitude": "41.2000", "longitude": "36.7167" },
+      { "ilce_adi": "Havza", "latitude": "40.9667", "longitude": "35.6667" },
+      { "ilce_adi": "İlkadım", "latitude": "41.2833", "longitude": "36.3333" },
+      { "ilce_adi": "Kavak", "latitude": "41.0833", "longitude": "36.0500" },
+      { "ilce_adi": "Ladik", "latitude": "40.9167", "longitude": "35.9167" },
+      { "ilce_adi": "Ondokuzmayıs", "latitude": "41.5167", "longitude": "36.0667" },
+      { "ilce_adi": "Salıpazarı", "latitude": "41.0500", "longitude": "36.8500" },
+      { "ilce_adi": "Tekkeköy", "latitude": "41.2167", "longitude": "36.4833" },
+      { "ilce_adi": "Terme", "latitude": "41.2167", "longitude": "36.9667" },
+      { "ilce_adi": "Vezirköprü", "latitude": "41.1333", "longitude": "35.4500" },
+      { "ilce_adi": "Yakakent", "latitude": "41.6333", "longitude": "35.5333" }
+    ]
+  },
+  {
+    "plaka": 56,
+    "il_adi": "Siirt",
+    "latitude": "37.9333",
+    "longitude": "41.9500",
+    "ilceler": [
+      { "ilce_adi": "Baykan", "latitude": "38.1667", "longitude": "41.7667" },
+      { "ilce_adi": "Eruh", "latitude": "37.7500", "longitude": "42.1833" },
+      { "ilce_adi": "Kurtalan", "latitude": "38.1333", "longitude": "41.7000" },
+      { "ilce_adi": "Merkez", "latitude": "37.9333", "longitude": "41.9500" },
+      { "ilce_adi": "Pervari", "latitude": "37.9667", "longitude": "42.5667" },
+      { "ilce_adi": "Şirvan", "latitude": "38.0833", "longitude": "42.0167" },
+      { "ilce_adi": "Tillo", "latitude": "37.9500", "longitude": "42.0167" }
+    ]
+  },
+  {
+    "plaka": 57,
+    "il_adi": "Sinop",
+    "latitude": "42.0286",
+    "longitude": "35.1539",
+    "ilceler": [
+      { "ilce_adi": "Ayancık", "latitude": "41.9500", "longitude": "34.5833" },
+      { "ilce_adi": "Boyabat", "latitude": "41.4667", "longitude": "34.7667" },
+      { "ilce_adi": "Dikmen", "latitude": "41.7333", "longitude": "35.2500" },
+      { "ilce_adi": "Durağan", "latitude": "41.4167", "longitude": "35.0500" },
+      { "ilce_adi": "Erfelek", "latitude": "41.8333", "longitude": "34.9000" },
+      { "ilce_adi": "Gerze", "latitude": "41.8000", "longitude": "35.2000" },
+      { "ilce_adi": "Merkez", "latitude": "42.0286", "longitude": "35.1539" },
+      { "ilce_adi": "Saraydüzü", "latitude": "41.3500", "longitude": "34.9500" },
+      { "ilce_adi": "Türkeli", "latitude": "41.9500", "longitude": "34.3333" }
+    ]
+  },
+  {
+    "plaka": 58,
+    "il_adi": "Sivas",
+    "latitude": "39.7477",
+    "longitude": "37.0179",
+    "ilceler": [
+      { "ilce_adi": "Akıncılar", "latitude": "40.0833", "longitude": "38.3333" },
+      { "ilce_adi": "Altınyayla", "latitude": "39.2667", "longitude": "36.6833" },
+      { "ilce_adi": "Divriği", "latitude": "39.3833", "longitude": "38.1167" },
+      { "ilce_adi": "Doğanşar", "latitude": "40.0333", "longitude": "37.7833" },
+
+      { "ilce_adi": "Gemerek", "latitude": "39.1833", "longitude": "36.0667" },
+      { "ilce_adi": "Gölova", "latitude": "40.1167", "longitude": "38.5333" },
+      { "ilce_adi": "Gürün", "latitude": "38.7167", "longitude": "37.2667" },
+      { "ilce_adi": "Hafik", "latitude": "39.8167", "longitude": "37.3833" },
+      { "ilce_adi": "İmranlı", "latitude": "39.8833", "longitude": "38.1000" },
+      { "ilce_adi": "Kangal", "latitude": "39.2333", "longitude": "37.6833" },
+      { "ilce_adi": "Koyulhisar", "latitude": "40.2833", "longitude": "37.8167" },
+      { "ilce_adi": "Merkez", "latitude": "39.7477", "longitude": "37.0179" },
+      { "ilce_adi": "Suşehri", "latitude": "40.1500", "longitude": "38.0833" },
+      { "ilce_adi": "Şarkışla", "latitude": "39.3500", "longitude": "36.4000" },
+      { "ilce_adi": "Ulaş", "latitude": "39.5000", "longitude": "37.0333" },
+      { "ilce_adi": "Yıldızeli", "latitude": "39.8833", "longitude": "36.6000" },
+      { "ilce_adi": "Zara", "latitude": "39.9000", "longitude": "37.7500" }
+    ]
+  },
+  {
+    "plaka": 63,
+    "il_adi": "Şanlıurfa",
+    "latitude": "37.1583",
+    "longitude": "38.7916",
+    "ilceler": [
+      { "ilce_adi": "Akçakale", "latitude": "36.7167", "longitude": "38.9500" },
+      { "ilce_adi": "Birecik", "latitude": "37.0333", "longitude": "37.9667" },
+      { "ilce_adi": "Bozova", "latitude": "37.3667", "longitude": "38.5167" },
+      { "ilce_adi": "Ceylanpınar", "latitude": "36.8500", "longitude": "40.0500" },
+      { "ilce_adi": "Eyyübiye", "latitude": "37.1333", "longitude": "38.8167" },
+      { "ilce_adi": "Halfeti", "latitude": "37.2500", "longitude": "37.8667" },
+      { "ilce_adi": "Haliliye", "latitude": "37.1667", "longitude": "38.7667" },
+      { "ilce_adi": "Harran", "latitude": "36.8667", "longitude": "39.0333" },
+      { "ilce_adi": "Hilvan", "latitude": "37.5833", "longitude": "38.9667" },
+      { "ilce_adi": "Karaköprü", "latitude": "37.2167", "longitude": "38.7833" },
+      { "ilce_adi": "Siverek", "latitude": "37.7500", "longitude": "39.3167" },
+      { "ilce_adi": "Suruç", "latitude": "36.9667", "longitude": "38.4167" },
+      { "ilce_adi": "Viranşehir", "latitude": "37.2333", "longitude": "39.7667" }
+    ]
+  },
+  {
+    "plaka": 73,
+    "il_adi": "Şırnak",
+    "latitude": "37.5162",
+    "longitude": "42.4593",
+    "ilceler": [
+      { "ilce_adi": "Beytüşşebap", "latitude": "37.3667", "longitude": "43.2000" },
+      { "ilce_adi": "Cizre", "latitude": "37.3333", "longitude": "42.1833" },
+      { "ilce_adi": "Güçlükonak", "latitude": "37.4833", "longitude": "41.9000" },
+      { "ilce_adi": "İdil", "latitude": "37.3333", "longitude": "41.9000" },
+      { "ilce_adi": "Merkez", "latitude": "37.5162", "longitude": "42.4593" },
+      { "ilce_adi": "Silopi", "latitude": "37.2500", "longitude": "42.4667" },
+      { "ilce_adi": "Uludere", "latitude": "37.3500", "longitude": "42.8833" }
+    ]
+  },
+  {
+    "plaka": 59,
+    "il_adi": "Tekirdağ",
+    "latitude": "40.9781",
+    "longitude": "27.5117",
+    "ilceler": [
+      { "ilce_adi": "Çerkezköy", "latitude": "41.2833", "longitude": "28.0000" },
+      { "ilce_adi": "Çorlu", "latitude": "41.1500", "longitude": "27.8000" },
+      { "ilce_adi": "Ergene", "latitude": "41.1667", "longitude": "27.7000" },
+      { "ilce_adi": "Hayrabolu", "latitude": "41.2167", "longitude": "27.1000" },
+      { "ilce_adi": "Kapaklı", "latitude": "41.3167", "longitude": "27.9667" },
+      { "ilce_adi": "Malkara", "latitude": "40.8833", "longitude": "26.9000" },
+      { "ilce_adi": "Marmaraereğlisi", "latitude": "40.9667", "longitude": "27.9500" },
+      { "ilce_adi": "Muratlı", "latitude": "41.1500", "longitude": "27.5000" },
+
+      { "ilce_adi": "Saray", "latitude": "41.4333", "longitude": "27.9167" },
+      { "ilce_adi": "Süleymanpaşa", "latitude": "40.9833", "longitude": "27.5167" },
+      { "ilce_adi": "Şarköy", "latitude": "40.6167", "longitude": "27.1167" }
+    ]
+  },
+  {
+    "plaka": 60,
+    "il_adi": "Tokat",
+    "latitude": "40.3235",
+    "longitude": "36.5522",
+    "ilceler": [
+      { "ilce_adi": "Almus", "latitude": "40.3667", "longitude": "36.9167" },
+      { "ilce_adi": "Artova", "latitude": "40.1167", "longitude": "36.3167" },
+      { "ilce_adi": "Başçiftlik", "latitude": "40.5833", "longitude": "37.2000" },
+      { "ilce_adi": "Erbaa", "latitude": "40.6667", "longitude": "36.5667" },
+      { "ilce_adi": "Merkez", "latitude": "40.3235", "longitude": "36.5522" },
+      { "ilce_adi": "Niksar", "latitude": "40.5833", "longitude": "36.9500" },
+      { "ilce_adi": "Pazar", "latitude": "40.2667", "longitude": "36.3000" },
+      { "ilce_adi": "Reşadiye", "latitude": "40.3833", "longitude": "37.3333" },
+      { "ilce_adi": "Sulusaray", "latitude": "40.0500", "longitude": "35.9167" },
+      { "ilce_adi": "Turhal", "latitude": "40.3833", "longitude": "36.0833" },
+      { "ilce_adi": "Yeşilyurt", "latitude": "40.1000", "longitude": "36.1333" },
+      { "ilce_adi": "Zile", "latitude": "40.3000", "longitude": "35.8833" }
+    ]
+  },
+  {
+    "plaka": 61,
+    "il_adi": "Trabzon",
+    "latitude": "41.0027",
+    "longitude": "39.7168",
+    "ilceler": [
+      { "ilce_adi": "Akçaabat", "latitude": "41.0167", "longitude": "39.5667" },
+      { "ilce_adi": "Araklı", "latitude": "40.9500", "longitude": "40.0500" },
+      { "ilce_adi": "Arsin", "latitude": "40.9667", "longitude": "39.9500" },
+      { "ilce_adi": "Beşikdüzü", "latitude": "41.0500", "longitude": "39.2167" },
+      { "ilce_adi": "Çarşıbaşı", "latitude": "41.0500", "longitude": "39.3667" },
+      { "ilce_adi": "Çaykara", "latitude": "40.7500", "longitude": "40.1500" },
+      { "ilce_adi": "Dernekpazarı", "latitude": "40.8167", "longitude": "40.2333" },
+      { "ilce_adi": "Düzköy", "latitude": "40.9167", "longitude": "39.4667" },
+      { "ilce_adi": "Hayrat", "latitude": "40.8833", "longitude": "40.3500" },
+      { "ilce_adi": "Köprübaşı", "latitude": "40.8000", "longitude": "40.1000" },
+      { "ilce_adi": "Maçka", "latitude": "40.8167", "longitude": "39.6167" },
+      { "ilce_adi": "Of", "latitude": "40.9333", "longitude": "40.2667" },
+      { "ilce_adi": "Ortahisar", "latitude": "41.0027", "longitude": "39.7168" },
+      { "ilce_adi": "Sürmene", "latitude": "40.9167", "longitude": "40.1167" },
+      { "ilce_adi": "Şalpazarı", "latitude": "40.8667", "longitude": "39.3000" },
+      { "ilce_adi": "Tonya", "latitude": "40.8833", "longitude": "39.2833" },
+      { "ilce_adi": "Vakfıkebir", "latitude": "41.0500", "longitude": "39.2667" },
+      { "ilce_adi": "Yomra", "latitude": "40.9667", "longitude": "39.8167" }
+    ]
+  },
+  {
+    "plaka": 62,
+    "il_adi": "Tunceli",
+    "latitude": "39.1062",
+    "longitude": "39.5483",
+    "ilceler": [
+      { "ilce_adi": "Çemişgezek", "latitude": "39.0333", "longitude": "38.9000" },
+      { "ilce_adi": "Hozat", "latitude": "39.1000", "longitude": "39.2000" },
+      { "ilce_adi": "Mazgirt", "latitude": "38.8833", "longitude": "39.6167" },
+      { "ilce_adi": "Merkez", "latitude": "39.1062", "longitude": "39.5483" },
+      { "ilce_adi": "Nazımiye", "latitude": "39.1667", "longitude": "39.8000" },
+      { "ilce_adi": "Ovacık", "latitude": "39.3500", "longitude": "39.2333" },
+      { "ilce_adi": "Pertek", "latitude": "38.8667", "longitude": "39.3167" },
+      { "ilce_adi": "Pülümür", "latitude": "39.4833", "longitude": "39.9000" }
+    ]
+  },
+  {
+    "plaka": 64,
+    "il_adi": "Uşak",
+    "latitude": "38.6823",
+    "longitude": "29.4082",
+    "ilceler": [
+      { "ilce_adi": "Banaz", "latitude": "38.7333", "longitude": "29.7500" },
+      { "ilce_adi": "Eşme", "latitude": "38.4000", "longitude": "28.9667" },
+      { "ilce_adi": "Karahallı", "latitude": "38.3167", "longitude": "29.5333" },
+      { "ilce_adi": "Merkez", "latitude": "38.6823", "longitude": "29.4082" },
+      { "ilce_adi": "Sivaslı", "latitude": "38.5000", "longitude": "29.6833" },
+      { "ilce_adi": "Ulubey", "latitude": "38.4167", "longitude": "29.2833" }
+    ]
+  },
+  {
+    "plaka": 65,
+    "il_adi": "Van",
+    "latitude": "38.4891",
+    "longitude": "43.4089",
+    "ilceler": [
+      { "ilce_adi": "Bahçesaray", "latitude": "38.1333", "longitude": "42.8167" },
+      { "ilce_adi": "Başkale", "latitude": "38.0500", "longitude": "44.3500" },
+      { "ilce_adi": "Çaldıran", "latitude": "39.1333", "longitude": "44.0333" },
+      { "ilce_adi": "Çatak", "latitude": "38.2500", "longitude": "43.0500" },
+      { "ilce_adi": "Edremit", "latitude": "38.4000", "longitude": "43.2667" },
+      { "ilce_adi": "Erciş", "latitude": "39.0333", "longitude": "43.3500" },
+      { "ilce_adi": "Gevaş", "latitude": "38.2667", "longitude": "43.1000" },
+      { "ilce_adi": "Gürpınar", "latitude": "38.3333", "longitude": "43.4500" },
+      { "ilce_adi": "İpekyolu", "latitude": "38.5000", "longitude": "43.3833" },
+      { "ilce_adi": "Muradiye", "latitude": "39.0167", "longitude": "43.7833" },
+      { "ilce_adi": "Özalp", "latitude": "38.6500", "longitude": "44.0167" },
+      { "ilce_adi": "Saray", "latitude": "38.5167", "longitude": "44.3333" },
+      { "ilce_adi": "Tuşba", "latitude": "38.5667", "longitude": "43.3667" }
+    ]
+  },
+  {
+    "plaka": 77,
+    "il_adi": "Yalova",
+    "latitude": "40.6554",
+    "longitude": "29.2766",
+    "ilceler": [
+      { "ilce_adi": "Altınova", "latitude": "40.7000", "longitude": "29.5000" },
+      { "ilce_adi": "Armutlu", "latitude": "40.5167", "longitude": "28.8167" },
+      { "ilce_adi": "Çınarcık", "latitude": "40.6333", "longitude": "29.1167" },
+      { "ilce_adi": "Çiftlikköy", "latitude": "40.6500", "longitude": "29.3167" },
+      { "ilce_adi": "Merkez", "latitude": "40.6554", "longitude": "29.2766" },
+      { "ilce_adi": "Termal", "latitude": "40.6167", "longitude": "29.1667" }
+    ]
+  },
+  {
+    "plaka": 66,
+    "il_adi": "Yozgat",
+    "latitude": "39.8200",
+    "longitude": "34.8042",
+    "ilceler": [
+      { "ilce_adi": "Akdağmadeni", "latitude": "39.6500", "longitude": "35.8833" },
+      { "ilce_adi": "Aydıncık", "latitude": "40.1167", "longitude": "35.3000" },
+      { "ilce_adi": "Boğazlıyan", "latitude": "39.2000", "longitude": "35.2500" },
+      { "ilce_adi": "Çandır", "latitude": "39.3167", "longitude": "35.5333" },
+      { "ilce_adi": "Çayıralan", "latitude": "39.2333", "longitude": "35.6167" },
+      { "ilce_adi": "Çekerek", "latitude": "40.0667", "longitude": "35.4833" },
+      { "ilce_adi": "Kadışehri", "latitude": "40.0167", "longitude": "35.8000" },
+      { "ilce_adi": "Merkez", "latitude": "39.8200", "longitude": "34.8042" },
+      { "ilce_adi": "Saraykent", "latitude": "39.6667", "longitude": "35.7333" },
+      { "ilce_adi": "Sarıkaya", "latitude": "39.5167", "longitude": "35.3833" },
+      { "ilce_adi": "Sorgun", "latitude": "39.8167", "longitude": "35.1833" },
+      { "ilce_adi": "Şefaatli", "latitude": "39.5667", "longitude": "34.7833" },
+      { "ilce_adi": "Yenifakılı", "latitude": "39.1167", "longitude": "35.1000" },
+      { "ilce_adi": "Yerköy", "latitude": "39.6333", "longitude": "34.4667" }
+    ]
+  },
+  {
+    "plaka": 67,
+    "il_adi": "Zonguldak",
+    "latitude": "41.4564",
+    "longitude": "31.7987",
+    "ilceler": [
+      { "ilce_adi": "Alaplı", "latitude": "41.1667", "longitude": "31.3833" },
+      { "ilce_adi": "Çaycuma", "latitude": "41.4333", "longitude": "32.0667" },
+      { "ilce_adi": "Devrek", "latitude": "41.2167", "longitude": "31.9667" },
+      { "ilce_adi": "Gökçebey", "latitude": "41.3333", "longitude": "32.1167" },
+      { "ilce_adi": "Karadeniz Ereğli", "latitude": "41.2833", "longitude": "31.4167" },
+      { "ilce_adi": "Kilimli", "latitude": "41.4833", "longitude": "31.8333" },
+      { "ilce_adi": "Kozlu", "latitude": "41.4333", "longitude": "31.7500" },
+      { "ilce_adi": "Merkez", "latitude": "41.4564", "longitude": "31.7987" }
+    ]
+  }
+]
